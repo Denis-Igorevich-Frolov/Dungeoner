@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal Projects\\Dungeoner\\Source\\Dungeoner\\Dungeoner.Build.cs",
+		"E:\\Unreal Projects\\Dungeoner\\Source\\Dungeoner.Target.cs",
+		"E:\\Unreal Projects\\Dungeoner\\Source\\DungeonerEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
