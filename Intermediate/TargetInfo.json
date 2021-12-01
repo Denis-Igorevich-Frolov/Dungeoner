@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Dungeoner",
+			"Path": "E:\\Unreal Projects\\Dungeoner\\Source\\Dungeoner.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DungeonerEditor",
+			"Path": "E:\\Unreal Projects\\Dungeoner\\Source\\DungeonerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

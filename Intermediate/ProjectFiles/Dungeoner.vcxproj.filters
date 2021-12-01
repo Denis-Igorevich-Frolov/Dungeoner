@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Dungeoner.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1A7551D6-24AD-48D4-B26B-2B960B721FF0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Dungeoner.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DungeonerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B5D64D42-4FBD-4E03-8348-FE3C9E5A317A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Dungeoner">
+      <UniqueIdentifier>{EDC78058-7FF0-4B8F-9256-D8E0EA788CC3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Dungeoner\Dungeoner.Build.cs">
+      <Filter>Source\Dungeoner</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Dungeoner\Dungeoner.cpp">
+      <Filter>Source\Dungeoner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Dungeoner\Dungeoner.h">
+      <Filter>Source\Dungeoner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Dungeoner\DungeonerGameModeBase.cpp">
+      <Filter>Source\Dungeoner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Dungeoner\DungeonerGameModeBase.h">
+      <Filter>Source\Dungeoner</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
