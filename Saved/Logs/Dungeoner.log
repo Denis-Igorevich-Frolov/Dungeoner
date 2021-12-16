@@ -1145,3 +1145,306 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.16-17.51.08:586][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Windows/CharacterWindow" FILE="../../../../Unreal Projects/Dungeoner/Saved/Autosaves/Game/UI/Windows/CharacterWindow_Auto2.uasset" SILENT=false AUTOSAVING=true
 [2021.12.16-17.51.08:844][462]LogSavePackage: Moving '../../../../Unreal Projects/Dungeoner/Saved/CharacterWindow_Auto24B5CBDDD4A542DEB4A001A9D49969075.tmp' to '../../../../Unreal Projects/Dungeoner/Saved/Autosaves/Game/UI/Windows/CharacterWindow_Auto2.uasset'
 [2021.12.16-17.51.08:873][462]LogFileHelpers: Auto-saving content packages took 0.288
+[2021.12.16-18.09.31:542][336]LogSlate: Window 'TextBox2' being destroyed
+[2021.12.16-18.09.31:549][336]LogSlate: Window 'TextBox2' being destroyed
+[2021.12.16-18.09.31:554][336]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.12.16-18.09.31:554][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.16-18.09.31:564][336]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.12.16-18.09.31:564][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.16-18.10.08:013][284]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.16-18.10.08:013][284]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.16-18.10.14:730][908]LogContentBrowser: Attempting asset rename: TextBox2 -> StatsHint
+[2021.12.16-18.10.14:893][908]LogMetaData: Removing '/Game/UI/View/StatsHint.StatsHint_C' ref from Metadata '/Game/UI/View/TextBox2.PackageMetaData'
+[2021.12.16-18.10.14:893][908]LogMetaData: Removing '/Game/UI/View/StatsHint.StatsHint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/View/TextBox2.PackageMetaData'
+[2021.12.16-18.10.14:893][908]LogMetaData: Removing '/Game/UI/View/StatsHint.StatsHint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/View/TextBox2.PackageMetaData'
+[2021.12.16-18.10.14:893][908]LogMetaData: Removing '/Game/UI/View/StatsHint.StatsHint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/View/TextBox2.PackageMetaData'
+[2021.12.16-18.10.14:893][908]LogMetaData: Removing '/Game/UI/View/StatsHint.StatsHint:FillingIncrease.K2Node_FunctionEntry_0' ref from Metadata '/Game/UI/View/TextBox2.PackageMetaData'
+[2021.12.16-18.10.14:893][908]LogMetaData: Removing '/Game/UI/View/StatsHint.StatsHint:CreateNewIncrease.K2Node_FunctionEntry_0' ref from Metadata '/Game/UI/View/TextBox2.PackageMetaData'
+[2021.12.16-18.10.14:893][908]LogMetaData: Removing '/Game/UI/View/StatsHint.SKEL_StatsHint_C' ref from Metadata '/Game/UI/View/TextBox2.PackageMetaData'
+[2021.12.16-18.10.14:893][908]LogMetaData: Removing '/Game/UI/View/StatsHint.SKEL_StatsHint_C:PreConstruct' ref from Metadata '/Game/UI/View/TextBox2.PackageMetaData'
+[2021.12.16-18.10.14:893][908]LogMetaData: Removing '/Game/UI/View/StatsHint.SKEL_StatsHint_C:Construct' ref from Metadata '/Game/UI/View/TextBox2.PackageMetaData'
+[2021.12.16-18.10.14:893][908]LogMetaData: Removing '/Game/UI/View/StatsHint.SKEL_StatsHint_C:Tick' ref from Metadata '/Game/UI/View/TextBox2.PackageMetaData'
+[2021.12.16-18.10.14:893][908]LogMetaData: Removing '/Game/UI/View/StatsHint.SKEL_StatsHint_C:OnInitialized' ref from Metadata '/Game/UI/View/TextBox2.PackageMetaData'
+[2021.12.16-18.10.14:893][908]LogMetaData: Removing '/Game/UI/View/StatsHint.SKEL_StatsHint_C:CreateNewIncrease' ref from Metadata '/Game/UI/View/TextBox2.PackageMetaData'
+[2021.12.16-18.10.14:893][908]LogMetaData: Removing '/Game/UI/View/StatsHint.SKEL_StatsHint_C:FillingIncrease' ref from Metadata '/Game/UI/View/TextBox2.PackageMetaData'
+[2021.12.16-18.10.14:893][908]LogMetaData: Removing '/Game/UI/View/StatsHint.StatsHint_C:OnInitialized' ref from Metadata '/Game/UI/View/TextBox2.PackageMetaData'
+[2021.12.16-18.10.14:893][908]LogMetaData: Removing '/Game/UI/View/StatsHint.StatsHint_C:CreateNewIncrease' ref from Metadata '/Game/UI/View/TextBox2.PackageMetaData'
+[2021.12.16-18.10.14:893][908]LogMetaData: Removing '/Game/UI/View/StatsHint.StatsHint_C:FillingIncrease' ref from Metadata '/Game/UI/View/TextBox2.PackageMetaData'
+[2021.12.16-18.10.14:972][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/View/StatsHint" FILE="../../../../Unreal Projects/Dungeoner/Content/UI/View/StatsHint.uasset" SILENT=true
+[2021.12.16-18.10.15:041][908]LogSavePackage: Moving '../../../../Unreal Projects/Dungeoner/Saved/StatsHintBC2BF75B4AAABAFCAD065B90E5951404.tmp' to '../../../../Unreal Projects/Dungeoner/Content/UI/View/StatsHint.uasset'
+[2021.12.16-18.10.15:233][908]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.12.16-18.10.15:268][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.12.16-18.10.15:290][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.12.16-18.10.15:306][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Windows/CharacterWindow" FILE="../../../../Unreal Projects/Dungeoner/Content/UI/Windows/CharacterWindow.uasset" SILENT=true
+[2021.12.16-18.10.15:526][908]LogSavePackage: Moving '../../../../Unreal Projects/Dungeoner/Saved/CharacterWindow6455440847F19AFB2DED8494ABC40123.tmp' to '../../../../Unreal Projects/Dungeoner/Content/UI/Windows/CharacterWindow.uasset'
+[2021.12.16-18.10.15:694][908]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.16-18.10.15:694][908]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/View/StatsHint.StatsHint
+[2021.12.16-18.10.15:695][908]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Windows/CharacterWindow.CharacterWindow
+[2021.12.16-18.10.34:074][780]LogContentBrowser: Deferred new asset file creation: StatsHint1
+[2021.12.16-18.10.34:088][780]LogContentBrowser: Creating deferred item: StatsHint1
+[2021.12.16-18.10.44:218][473]LogContentBrowser: Attempting asset rename: StatsHint1 -> TextBox2
+[2021.12.16-18.10.44:295][473]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2021.12.16-18.10.44:327][473]LogContentBrowser: End creating deferred item StatsHint1
+[2021.12.16-18.10.45:888][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/View/TextBox2" FILE="../../../../Unreal Projects/Dungeoner/Content/UI/View/TextBox2.uasset" SILENT=true
+[2021.12.16-18.10.45:957][579]LogSavePackage: Moving '../../../../Unreal Projects/Dungeoner/Saved/TextBox221474F634E39553ADE61A69124C041DE.tmp' to '../../../../Unreal Projects/Dungeoner/Content/UI/View/TextBox2.uasset'
+[2021.12.16-18.10.45:972][579]AssetCheck: New page: Asset Save: TextBox2
+[2021.12.16-18.10.45:972][579]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/View/TextBox2.TextBox2
+[2021.12.16-18.10.48:987][787]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/View/TextBox2.TextBox2
+[2021.12.16-18.10.57:541][126]LogSlate: Window 'Delete widgets' being destroyed
+[2021.12.16-18.11.15:846][171]LogEditorTransaction: Undo Remove Widget
+[2021.12.16-18.11.19:903][372]LogSlate: Took 0.060211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.12.16-18.11.55:505][354]BlueprintLog: New page: Compile TextBox2
+[2021.12.16-18.11.55:561][354]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.12.16-18.11.55:753][354]LogSlate: Took 0.019173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.12.16-18.11.56:236][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/View/TextBox2" FILE="../../../../Unreal Projects/Dungeoner/Content/UI/View/TextBox2.uasset" SILENT=true
+[2021.12.16-18.11.56:245][379]LogSavePackage: Moving '../../../../Unreal Projects/Dungeoner/Saved/TextBox2EEEB96154C6A82D751D8F985F9F99E67.tmp' to '../../../../Unreal Projects/Dungeoner/Content/UI/View/TextBox2.uasset'
+[2021.12.16-18.11.56:258][379]AssetCheck: New page: Asset Save: TextBox2
+[2021.12.16-18.11.56:258][379]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/View/TextBox2.TextBox2
+[2021.12.16-18.12.25:306][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/View/TextBox2" FILE="../../../../Unreal Projects/Dungeoner/Content/UI/View/TextBox2.uasset" SILENT=true
+[2021.12.16-18.12.25:315][983]LogSavePackage: Moving '../../../../Unreal Projects/Dungeoner/Saved/TextBox2726C1B5344EA22BAF33633AF2F736365.tmp' to '../../../../Unreal Projects/Dungeoner/Content/UI/View/TextBox2.uasset'
+[2021.12.16-18.12.25:329][983]AssetCheck: New page: Asset Save: TextBox2
+[2021.12.16-18.12.25:329][983]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/View/TextBox2.TextBox2
+[2021.12.16-18.12.26:328][ 40]BlueprintLog: New page: Compile TextBox2
+[2021.12.16-18.12.26:378][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.12.16-18.12.39:769][851]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/View/StatsHint.StatsHint
+[2021.12.16-18.13.32:217][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/View/StatsHint" FILE="../../../../Unreal Projects/Dungeoner/Content/UI/View/StatsHint.uasset" SILENT=true
+[2021.12.16-18.13.32:297][764]LogSavePackage: Moving '../../../../Unreal Projects/Dungeoner/Saved/StatsHint016631B34AC045B39635148D7285CB34.tmp' to '../../../../Unreal Projects/Dungeoner/Content/UI/View/StatsHint.uasset'
+[2021.12.16-18.13.32:311][764]AssetCheck: New page: Asset Save: StatsHint
+[2021.12.16-18.13.32:311][764]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/View/StatsHint.StatsHint
+[2021.12.16-18.13.33:080][811]BlueprintLog: New page: Compile StatsHint
+[2021.12.16-18.13.33:188][811]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.12.16-18.13.34:671][893]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.16-18.13.34:679][893]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.12.16-18.13.34:683][893]LogPlayLevel: [PlayLevel] Compiling CharacterWindow before play...
+[2021.12.16-18.13.34:794][893]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.12.16-18.13.34:795][893]LogPlayLevel: PlayLevel: Blueprint regeneration took 115 ms (1 blueprints)
+[2021.12.16-18.13.34:795][893]PIE: New page: PIE session: Map (17 дек. 2021 г., 02:13:34)
+[2021.12.16-18.13.34:795][893]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2021.12.16-18.13.34:797][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001298s)
+[2021.12.16-18.13.34:798][893]LogAIModule: Creating AISystem for world Map
+[2021.12.16-18.13.34:798][893]LogPlayLevel: PIE: World Init took: (0.001299s)
+[2021.12.16-18.13.34:798][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.002722s)
+[2021.12.16-18.13.34:829][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.12.16-18.13.34:829][893]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.12.16-18.13.34:829][893]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.16-18.13.34:829][893]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.16-18.13.34:829][893]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.16-18.13.34:829][893]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.16-18.13.34:829][893]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.16-18.13.34:829][893]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.16-18.13.34:829][893]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.16-18.13.34:829][893]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.16-18.13.34:830][893]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.16-18.13.34:830][893]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.16-18.13.34:833][893]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.16-18.13.34:833][893]LogAudioMixer: Display: 1: FrontRight
+[2021.12.16-18.13.34:859][893]LogAudioMixer: Display: Using Audio Device Динамики (Bloody Gaming Audio Device)
+[2021.12.16-18.13.34:859][893]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.16-18.13.34:859][893]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.16-18.13.34:859][893]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.16-18.13.34:860][893]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.16-18.13.34:860][893]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.16-18.13.34:860][893]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.16-18.13.34:879][893]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.16-18.13.34:879][893]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.16-18.13.34:879][893]LogInit: FAudioDevice initialized.
+[2021.12.16-18.13.34:879][893]LogAudio: Display: Audio Device (ID: 7) registered with world 'Map'.
+[2021.12.16-18.13.34:930][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.16-18.13.34:931][893]LogLoad: Game class is 'BaseGameMode_C'
+[2021.12.16-18.13.34:932][893]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.12.16-22.13.34
+[2021.12.16-18.13.34:932][893]LogWorld: Bringing up level for play took: 0.000511
+[2021.12.16-18.13.34:932][893]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.12.16-18.13.34:947][893]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.12.16-18.13.34:947][893]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.12.16-18.13.34:947][893]Cmd: r.SetRes 1920 x 1080f
+[2021.12.16-18.13.34:948][893]r.SetRes = "1920 x 1080f"
+[2021.12.16-18.13.34:951][893]PIE: Server logged in
+[2021.12.16-18.13.34:953][893]PIE: Play in editor total start time 0,275 seconds.
+[2021.12.16-18.13.43:338][165]LogSlate: Window 'Dungeoner Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.16-18.13.43:376][165]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map
+[2021.12.16-18.13.43:376][165]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2021.12.16-18.13.43:376][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.16-18.13.43:386][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.16-18.13.43:392][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.16-18.13.43:423][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.16-18.13.43:424][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.16-18.13.43:454][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.12.16-18.13.43:482][166]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.12.16-18.15.35:013][657]BlueprintLog: New page: Compile StatsHint
+[2021.12.16-18.15.35:087][657]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.12.16-18.15.35:972][699]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.16-18.15.35:980][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.16-18.15.35:980][699]PIE: New page: PIE session: Map (17 дек. 2021 г., 02:15:35)
+[2021.12.16-18.15.35:980][699]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2021.12.16-18.15.35:982][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001469s)
+[2021.12.16-18.15.35:983][699]LogAIModule: Creating AISystem for world Map
+[2021.12.16-18.15.35:983][699]LogPlayLevel: PIE: World Init took: (0.001343s)
+[2021.12.16-18.15.35:983][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.002963s)
+[2021.12.16-18.15.36:017][699]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.12.16-18.15.36:017][699]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.12.16-18.15.36:017][699]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.16-18.15.36:017][699]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.16-18.15.36:018][699]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.16-18.15.36:018][699]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.16-18.15.36:018][699]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.16-18.15.36:018][699]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.16-18.15.36:018][699]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.16-18.15.36:018][699]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.16-18.15.36:018][699]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.16-18.15.36:018][699]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.16-18.15.36:021][699]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.16-18.15.36:021][699]LogAudioMixer: Display: 1: FrontRight
+[2021.12.16-18.15.36:047][699]LogAudioMixer: Display: Using Audio Device Динамики (Bloody Gaming Audio Device)
+[2021.12.16-18.15.36:047][699]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.16-18.15.36:047][699]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.16-18.15.36:047][699]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.16-18.15.36:048][699]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.16-18.15.36:048][699]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.16-18.15.36:048][699]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.16-18.15.36:068][699]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.16-18.15.36:068][699]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.16-18.15.36:068][699]LogInit: FAudioDevice initialized.
+[2021.12.16-18.15.36:068][699]LogAudio: Display: Audio Device (ID: 8) registered with world 'Map'.
+[2021.12.16-18.15.36:094][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.16-18.15.36:094][699]LogLoad: Game class is 'BaseGameMode_C'
+[2021.12.16-18.15.36:095][699]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.12.16-22.15.36
+[2021.12.16-18.15.36:095][699]LogWorld: Bringing up level for play took: 0.000485
+[2021.12.16-18.15.36:096][699]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.12.16-18.15.36:110][699]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.12.16-18.15.36:110][699]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.12.16-18.15.36:111][699]Cmd: r.SetRes 1920 x 1080f
+[2021.12.16-18.15.36:111][699]r.SetRes = "1920 x 1080f"
+[2021.12.16-18.15.36:114][699]PIE: Server logged in
+[2021.12.16-18.15.36:116][699]PIE: Play in editor total start time 0,137 seconds.
+[2021.12.16-18.15.38:419][772]LogSlate: Window 'Dungeoner Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.16-18.15.38:463][772]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map
+[2021.12.16-18.15.38:463][772]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2021.12.16-18.15.38:463][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.16-18.15.38:476][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.16-18.15.38:482][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.16-18.15.38:511][772]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.16-18.15.38:512][772]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.16-18.15.38:513][772]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.16-18.15.38:542][772]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.12.16-18.15.38:578][773]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.12.16-18.15.43:366][ 34]BlueprintLog: New page: Compile StatsHint
+[2021.12.16-18.15.43:439][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.12.16-18.15.44:262][ 76]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.16-18.15.44:271][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.16-18.15.44:271][ 76]PIE: New page: PIE session: Map (17 дек. 2021 г., 02:15:44)
+[2021.12.16-18.15.44:271][ 76]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2021.12.16-18.15.44:273][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001569s)
+[2021.12.16-18.15.44:274][ 76]LogAIModule: Creating AISystem for world Map
+[2021.12.16-18.15.44:274][ 76]LogPlayLevel: PIE: World Init took: (0.001464s)
+[2021.12.16-18.15.44:274][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.003255s)
+[2021.12.16-18.15.44:308][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.12.16-18.15.44:308][ 76]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.12.16-18.15.44:308][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.16-18.15.44:308][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.16-18.15.44:308][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.16-18.15.44:308][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.16-18.15.44:308][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.16-18.15.44:308][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.16-18.15.44:308][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.16-18.15.44:308][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.16-18.15.44:309][ 76]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.16-18.15.44:309][ 76]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.16-18.15.44:311][ 76]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.16-18.15.44:311][ 76]LogAudioMixer: Display: 1: FrontRight
+[2021.12.16-18.15.44:341][ 76]LogAudioMixer: Display: Using Audio Device Динамики (Bloody Gaming Audio Device)
+[2021.12.16-18.15.44:341][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.16-18.15.44:341][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.16-18.15.44:341][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.16-18.15.44:342][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.16-18.15.44:342][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.16-18.15.44:342][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.16-18.15.44:361][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.16-18.15.44:361][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.16-18.15.44:361][ 76]LogInit: FAudioDevice initialized.
+[2021.12.16-18.15.44:361][ 76]LogAudio: Display: Audio Device (ID: 9) registered with world 'Map'.
+[2021.12.16-18.15.44:414][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.16-18.15.44:414][ 76]LogLoad: Game class is 'BaseGameMode_C'
+[2021.12.16-18.15.44:416][ 76]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.12.16-22.15.44
+[2021.12.16-18.15.44:416][ 76]LogWorld: Bringing up level for play took: 0.000908
+[2021.12.16-18.15.44:417][ 76]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.12.16-18.15.44:439][ 76]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.12.16-18.15.44:439][ 76]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.12.16-18.15.44:439][ 76]Cmd: r.SetRes 1920 x 1080f
+[2021.12.16-18.15.44:440][ 76]r.SetRes = "1920 x 1080f"
+[2021.12.16-18.15.44:443][ 76]PIE: Server logged in
+[2021.12.16-18.15.44:445][ 76]PIE: Play in editor total start time 0,175 seconds.
+[2021.12.16-18.15.49:347][233]LogSlate: Window 'Dungeoner Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.16-18.15.49:387][233]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map
+[2021.12.16-18.15.49:388][233]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2021.12.16-18.15.49:388][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.16-18.15.49:395][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.16-18.15.49:401][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.16-18.15.49:431][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.16-18.15.49:432][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.16-18.15.49:461][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.12.16-18.15.49:497][234]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.12.16-18.15.54:786][507]BlueprintLog: New page: Compile StatsHint
+[2021.12.16-18.15.54:861][507]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.12.16-18.15.55:197][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/View/StatsHint" FILE="../../../../Unreal Projects/Dungeoner/Content/UI/View/StatsHint.uasset" SILENT=true
+[2021.12.16-18.15.55:267][520]LogSavePackage: Moving '../../../../Unreal Projects/Dungeoner/Saved/StatsHint1E30907445E32EBBE9E1A09A637C36CF.tmp' to '../../../../Unreal Projects/Dungeoner/Content/UI/View/StatsHint.uasset'
+[2021.12.16-18.15.55:281][520]AssetCheck: New page: Asset Save: StatsHint
+[2021.12.16-18.15.55:281][520]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/View/StatsHint.StatsHint
+[2021.12.16-18.17.57:730][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/View/StatsHint" FILE="../../../../Unreal Projects/Dungeoner/Content/UI/View/StatsHint.uasset" SILENT=true
+[2021.12.16-18.17.57:798][807]LogSavePackage: Moving '../../../../Unreal Projects/Dungeoner/Saved/StatsHintB9EEE27643E222EBA6128CA7D5CE0B0A.tmp' to '../../../../Unreal Projects/Dungeoner/Content/UI/View/StatsHint.uasset'
+[2021.12.16-18.17.57:813][807]AssetCheck: New page: Asset Save: StatsHint
+[2021.12.16-18.17.57:814][807]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/View/StatsHint.StatsHint
+[2021.12.16-18.18.01:533][  1]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.16-18.18.01:541][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.16-18.18.01:541][  1]PIE: New page: PIE session: Map (17 дек. 2021 г., 02:18:01)
+[2021.12.16-18.18.01:541][  1]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2021.12.16-18.18.01:543][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001322s)
+[2021.12.16-18.18.01:544][  1]LogAIModule: Creating AISystem for world Map
+[2021.12.16-18.18.01:544][  1]LogPlayLevel: PIE: World Init took: (0.001423s)
+[2021.12.16-18.18.01:544][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.002885s)
+[2021.12.16-18.18.01:584][  1]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.12.16-18.18.01:586][  1]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.12.16-18.18.01:586][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.16-18.18.01:586][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.16-18.18.01:586][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.16-18.18.01:586][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.16-18.18.01:586][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.16-18.18.01:586][  1]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.16-18.18.01:586][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.16-18.18.01:586][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.16-18.18.01:587][  1]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.16-18.18.01:587][  1]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.16-18.18.01:589][  1]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.16-18.18.01:589][  1]LogAudioMixer: Display: 1: FrontRight
+[2021.12.16-18.18.01:615][  1]LogAudioMixer: Display: Using Audio Device Динамики (Bloody Gaming Audio Device)
+[2021.12.16-18.18.01:615][  1]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.16-18.18.01:615][  1]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.16-18.18.01:615][  1]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.16-18.18.01:616][  1]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.16-18.18.01:616][  1]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.16-18.18.01:616][  1]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.16-18.18.01:636][  1]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.16-18.18.01:636][  1]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.16-18.18.01:636][  1]LogInit: FAudioDevice initialized.
+[2021.12.16-18.18.01:636][  1]LogAudio: Display: Audio Device (ID: 10) registered with world 'Map'.
+[2021.12.16-18.18.01:672][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.16-18.18.01:672][  1]LogLoad: Game class is 'BaseGameMode_C'
+[2021.12.16-18.18.01:673][  1]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.12.16-22.18.01
+[2021.12.16-18.18.01:673][  1]LogWorld: Bringing up level for play took: 0.000494
+[2021.12.16-18.18.01:674][  1]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.12.16-18.18.01:691][  1]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.12.16-18.18.01:691][  1]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.12.16-18.18.01:691][  1]Cmd: r.SetRes 1920 x 1080f
+[2021.12.16-18.18.01:691][  1]r.SetRes = "1920 x 1080f"
+[2021.12.16-18.18.01:694][  1]PIE: Server logged in
+[2021.12.16-18.18.01:696][  1]PIE: Play in editor total start time 0,155 seconds.
+[2021.12.16-18.18.13:571][383]LogSlate: Window 'Dungeoner Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.16-18.18.13:612][383]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map
+[2021.12.16-18.18.13:612][383]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2021.12.16-18.18.13:612][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.16-18.18.13:622][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.16-18.18.13:629][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.16-18.18.13:659][383]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.16-18.18.13:660][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.16-18.18.13:661][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.16-18.18.13:690][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.12.16-18.18.13:729][384]LogPlayLevel: Display: Destroying online subsystem :Context_18
