@@ -74,7 +74,7 @@ void EmptyLinkFunctionForGeneratedCodeDungeonerGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ADungeonerGameModeBase, 2566966583);
+	IMPLEMENT_CLASS(ADungeonerGameModeBase, 1924867321);
 	template<> DUNGEONER_API UClass* StaticClass<ADungeonerGameModeBase>()
 	{
 		return ADungeonerGameModeBase::StaticClass();

@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeDungeoner_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x93936964,
+				0x4CAC61A0,
 				0x81BC6E2A,
 				METADATA_PARAMS(nullptr, 0)
 			};
