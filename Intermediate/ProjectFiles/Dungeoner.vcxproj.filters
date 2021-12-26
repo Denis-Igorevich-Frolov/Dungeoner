@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <None Include="..\..\Dungeoner.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{335FDE98-FF1D-44D8-8871-96E5AE0BC3CB}</UniqueIdentifier>
+      <UniqueIdentifier>{2E38BA41-B81F-424F-8CCB-7571AA465EF7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Dungeoner.Target.cs">
       <Filter>Source</Filter>
@@ -15,7 +15,7 @@
     <None Include="..\..\.gitignore" />
     <None Include="..\..\README.md" />
     <Filter Include="Config">
-      <UniqueIdentifier>{477A6732-FDA2-46CA-9BA8-AFE4338431F8}</UniqueIdentifier>
+      <UniqueIdentifier>{32823544-71CB-40C7-B4B0-5E9DE35FDE44}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -33,7 +33,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Dungeoner">
-      <UniqueIdentifier>{74B23BCF-1686-4C33-8923-5A9189C92A55}</UniqueIdentifier>
+      <UniqueIdentifier>{DCAA0658-CB1C-4C1A-B34D-681B8F73AB1B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Dungeoner\Dungeoner.Build.cs">
       <Filter>Source\Dungeoner</Filter>
@@ -44,20 +44,26 @@
     <ClInclude Include="..\..\Source\Dungeoner\Dungeoner.h">
       <Filter>Source\Dungeoner</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\Dungeoner\DungeonerGameModeBase.cpp">
+    <ClCompile Include="..\..\Source\Dungeoner\Increase.cpp">
       <Filter>Source\Dungeoner</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\Dungeoner\DungeonerGameModeBase.h">
+    <ClInclude Include="..\..\Source\Dungeoner\Increase.h">
       <Filter>Source\Dungeoner</Filter>
     </ClInclude>
-    <Filter Include="Source\Dungeoner\FunctionLibrary">
-      <UniqueIdentifier>{AB561719-1D5A-4A84-A84E-49EC588C9CE6}</UniqueIdentifier>
-    </Filter>
-    <ClCompile Include="..\..\Source\Dungeoner\FunctionLibrary\SortingArray.cpp">
-      <Filter>Source\Dungeoner\FunctionLibrary</Filter>
+    <ClCompile Include="..\..\Source\Dungeoner\SortingArray.cpp">
+      <Filter>Source\Dungeoner</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\Dungeoner\FunctionLibrary\SortingArray.h">
-      <Filter>Source\Dungeoner\FunctionLibrary</Filter>
+    <ClInclude Include="..\..\Source\Dungeoner\SortingArray.h">
+      <Filter>Source\Dungeoner</Filter>
+    </ClInclude>
+    <Filter Include="Source\Dungeoner\GameMode">
+      <UniqueIdentifier>{27FEE6B5-2EF6-488F-B03C-41366BC3F345}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Dungeoner\GameMode\DungeonerGameModeBase.cpp">
+      <Filter>Source\Dungeoner\GameMode</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Dungeoner\GameMode\DungeonerGameModeBase.h">
+      <Filter>Source\Dungeoner\GameMode</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

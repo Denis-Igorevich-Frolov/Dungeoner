@@ -1,0 +1,35 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\Dungeoner).
+  Parsing headers for DungeonerEditor
+    Running UnrealHeaderTool "E:\Unreal Projects\Dungeoner\Dungeoner.uproject" "E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\DungeonerEditor\Development\DungeonerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Denis\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for DungeonerEditor in 86,6538314 seconds
+  Building DungeonerEditor...
+  Using Visual Studio 2022 14.30.30706 toolchain (D:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.20348.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Distributing 4 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  
+  Build ID: {54870167-6B6D-4BC7-8F78-43C3136F2821}
+  
+  --------------------Project: Default-------------------------------------------
+  Increase.gen.cpp (4:01.46 at +0:00)
+  UE4Editor-Dungeoner-0012.lib (0:01.09 at +4:01)
+     Создается библиотека E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-0012.lib и объект E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-0012.exp
+  UE4Editor-Dungeoner-0012.dll (0:04.54 at +4:02)
+     Создается библиотека E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-0012.suppressed.lib и объект E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-0012.suppressed.exp
+Increase.gen.cpp.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl FIncrease::FIncrease(void)" (??0FIncrease@@QEAA@XZ) в функции "public: virtual void __cdecl UScriptStruct::TCppStructOps<struct FIncrease>::Construct(void *)" (?Construct@?$TCppStructOps@UFIncrease@@@UScriptStruct@@UEAAXPEAX@Z).
+E:\Unreal Projects\Dungeoner\Binaries\Win64\UE4Editor-Dungeoner-0012.dll : fatal error LNK1120: неразрешенных внешних элементов: 1
+  
+  Error executing E:\UE_4.27\Engine\Build\Windows\link-filter\link-filter.exe (tool returned code: 1120)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 0 succeeded, 1 failed, 0 skipped
+  
+  1 build system warning(s):
+     - License is invalid
+  
+D:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MakeFile.Targets(44,5): error MSB3073: выход из команды "E:\UE_4.27\Engine\Build\BatchFiles\Build.bat DungeonerEditor Win64 Development -Project="E:\Unreal Projects\Dungeoner\Dungeoner.uproject" -WaitMutex -FromMsBuild" с кодом 6.

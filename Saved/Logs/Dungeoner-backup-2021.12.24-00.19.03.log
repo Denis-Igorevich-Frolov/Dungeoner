@@ -1,0 +1,1353 @@
+﻿Log file open, 12/24/21 03:51:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Dungeoner
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.278531
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +4:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2004) (), CPU:         Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz, GPU: NVIDIA GeForce GTX 550 Ti
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.23-23.51.29:449][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.23-23.51.29:449][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.23-23.51.29:449][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Engine.ini]
+[2021.12.23-23.51.29:449][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.23-23.51.29:449][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Engine.ini]
+[2021.12.23-23.51.29:449][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Engine.ini]
+[2021.12.23-23.51.29:449][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.23-23.51.29:449][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.23-23.51.29:449][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.23-23.51.29:449][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.23-23.51.29:449][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.23-23.51.29:449][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.23-23.51.29:449][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.23-23.51.29:449][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.23-23.51.29:449][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.23-23.51.29:449][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.23-23.51.29:449][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.23-23.51.29:449][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.23-23.51.29:449][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.23-23.51.29:449][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.23-23.51.29:449][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Engine.ini]
+[2021.12.23-23.51.29:449][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.23-23.51.29:450][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.23-23.51.29:450][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.23-23.51.29:450][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.23-23.51.29:450][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.23-23.51.29:450][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.23-23.51.29:450][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.23-23.51.29:450][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.23-23.51.29:450][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.23-23.51.29:450][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.23-23.51.29:450][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.23-23.51.29:450][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.23-23.51.29:450][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.23-23.51.29:450][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.23-23.51.29:450][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Engine.ini]
+[2021.12.23-23.51.29:450][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Engine.ini]
+[2021.12.23-23.51.29:456][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Scalability.ini]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Scalability.ini]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Scalability.ini]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Scalability.ini]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.23-23.51.29:457][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Scalability.ini]
+[2021.12.23-23.51.29:457][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Scalability.ini]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Scalability.ini]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Scalability.ini]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.23-23.51.29:458][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.23-23.51.29:458][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.23-23.51.29:458][  0]LogHAL: Display: Platform has ~ 8 GB [8569896960 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.23-23.51.29:458][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.23-23.51.29:458][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Scalability.ini]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2021.12.23-23.51.29:458][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Scalability.ini]
+[2021.12.23-23.51.29:458][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Scalability.ini]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Scalability.ini]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.GTAO.Numangles:4]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Scalability.ini]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.23-23.51.29:459][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Scalability.ini]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Scalability.ini]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Scalability.ini]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:0]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2021.12.23-23.51.29:460][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.23-23.51.29:460][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.23-23.51.29:461][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.23-23.51.29:461][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.23-23.51.29:461][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Engine.ini]
+[2021.12.23-23.51.29:461][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal Projects/Dungeoner/Saved/Config/Windows/Editor.ini]
+[2021.12.23-23.51.29:461][  0]LogInit: Computer: HOME-PC
+[2021.12.23-23.51.29:461][  0]LogInit: User: Denis
+[2021.12.23-23.51.29:461][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.12.23-23.51.29:461][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.23-23.51.29:461][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2021.12.23-23.51.29:461][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.23-23.51.29:461][  0]LogMemory: Process Physical Memory: 140.87 MB used, 140.88 MB peak
+[2021.12.23-23.51.29:461][  0]LogMemory: Process Virtual Memory: 113.04 MB used, 113.04 MB peak
+[2021.12.23-23.51.29:461][  0]LogMemory: Physical Memory: 5057.84 MB used,  3115.05 MB free, 8172.89 MB total
+[2021.12.23-23.51.29:461][  0]LogMemory: Virtual Memory: 134209096.00 MB used,  8629.63 MB free, 134217728.00 MB total
+[2021.12.23-23.51.29:468][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.23-23.51.29:491][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.23-23.51.29:491][  0]LogInit: Using OS detected language (ru-RU).
+[2021.12.23-23.51.29:492][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.12.23-23.51.29:493][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.12.23-23.51.29:494][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.12.23-23.51.29:494][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.12.23-23.51.29:494][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.12.23-23.51.29:494][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.12.23-23.51.29:494][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.12.23-23.51.29:494][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.12.23-23.51.29:494][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.12.23-23.51.29:495][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.23-23.51.29:503][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.23-23.51.29:515][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.23-23.51.29:515][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.23-23.51.29:656][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.12.23-23.51.29:666][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.23-23.51.29:666][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.23-23.51.29:666][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.23-23.51.29:666][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.23-23.51.29:731][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 550 Ti' (Feature Level 11_0)
+[2021.12.23-23.51.29:731][  0]LogD3D11RHI:       959/0/4086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.12.23-23.51.29:733][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.23-23.51.29:733][  0]LogD3D11RHI:       0/0/4086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.23-23.51.29:733][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2021.12.23-23.51.29:733][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 550 Ti
+[2021.12.23-23.51.29:733][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.12.23-23.51.29:733][  0]LogD3D11RHI:     DeviceId    : 1244
+[2021.12.23-23.51.29:733][  0]LogD3D11RHI:     SubSysId    : 0000
+[2021.12.23-23.51.29:733][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.12.23-23.51.29:733][  0]LogD3D11RHI:     DedicatedVideoMemory : 1005780992 bytes
+[2021.12.23-23.51.29:733][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.12.23-23.51.29:733][  0]LogD3D11RHI:     SharedSystemMemory : 4284948480 bytes
+[2021.12.23-23.51.29:733][  0]LogD3D11RHI:     AdapterLuid : 0 39500
+[2021.12.23-23.51.29:740][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.23-23.51.29:740][  0]LogD3D11RHI:     GPU DeviceId: 0x1244 (for the marketing name, search the web for "GPU Device Id")
+[2021.12.23-23.51.29:740][  0]LogWindows: EnumDisplayDevices:
+[2021.12.23-23.51.29:740][  0]LogWindows:    0. 'NVIDIA GeForce GTX 550 Ti' (P:1 D:1)
+[2021.12.23-23.51.29:740][  0]LogWindows:    1. 'NVIDIA GeForce GTX 550 Ti' (P:0 D:0)
+[2021.12.23-23.51.29:740][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2021.12.23-23.51.29:740][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 550 Ti
+[2021.12.23-23.51.29:741][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2021.12.23-23.51.29:741][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2021.12.23-23.51.29:741][  0]LogRHI: Texture pool is 671 MB (70% of 959 MB)
+[2021.12.23-23.51.29:741][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2021.12.23-23.51.29:741][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 550 Ti
+[2021.12.23-23.51.29:741][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.12.23-23.51.29:741][  0]LogD3D11RHI:     DeviceId    : 1244
+[2021.12.23-23.51.29:741][  0]LogD3D11RHI:     SubSysId    : 0000
+[2021.12.23-23.51.29:741][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.12.23-23.51.29:741][  0]LogD3D11RHI:     DedicatedVideoMemory : 1005780992 bytes
+[2021.12.23-23.51.29:741][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.12.23-23.51.29:741][  0]LogD3D11RHI:     SharedSystemMemory : 4284948480 bytes
+[2021.12.23-23.51.29:741][  0]LogD3D11RHI:     AdapterLuid : 0 39500
+[2021.12.23-23.51.29:789][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2021.12.23-23.51.29:789][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.12.23-23.51.29:790][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.23-23.51.29:811][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.12.23-23.51.29:859][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.12.23-23.51.30:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.23-23.51.30:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.23-23.51.30:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.23-23.51.30:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.23-23.51.30:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.23-23.51.30:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.23-23.51.30:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.23-23.51.30:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.23-23.51.30:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.23-23.51.30:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.23-23.51.30:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.23-23.51.30:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.23-23.51.30:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.23-23.51.30:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.23-23.51.30:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.23-23.51.30:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.23-23.51.30:879][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.23-23.51.30:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.23-23.51.30:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.23-23.51.30:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.23-23.51.30:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.23-23.51.30:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.23-23.51.30:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.23-23.51.30:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.23-23.51.30:949][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.23-23.51.30:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.23-23.51.30:965][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.23-23.51.30:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.23-23.51.30:976][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.23-23.51.30:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.23-23.51.30:986][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.23-23.51.30:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.23-23.51.30:991][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.23-23.51.30:999][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.23-23.51.31:030][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.12.23-23.51.31:063][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.23-23.51.31:063][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../Unreal Projects/Dungeoner/Intermediate/Shaders/WorkingDirectory/13800/).
+[2021.12.23-23.51.31:063][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Denis/AppData/Local/Temp/UnrealShaderWorkingDir/0FCF24D848895B061E41819C8D211BBD/'.
+[2021.12.23-23.51.31:065][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2021.12.23-23.51.32:080][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.23-23.51.32:155][  0]LogDerivedDataCache: Loaded boot cache 0.08s 94MB C:/Users/Denis/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.23-23.51.32:155][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Denis/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.12.23-23.51.32:155][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Unreal Projects/Dungeoner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.23-23.51.32:155][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.23-23.51.32:156][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Unreal Projects/Dungeoner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.23-23.51.32:156][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.23-23.51.32:180][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.23-23.51.32:180][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.23-23.51.32:180][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.23-23.51.32:186][  0]LogDerivedDataCache: Speed tests for C:/Users/Denis/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.12.23-23.51.32:186][  0]LogDerivedDataCache: Display: Performance to C:/Users/Denis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1168.10MBs, RandomWriteSpeed=201.31MBs. Assigned SpeedClass 'Local'
+[2021.12.23-23.51.32:187][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Denis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.23-23.51.32:187][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.23-23.51.32:187][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.23-23.51.32:254][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.23-23.51.32:254][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.23-23.51.32:283][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2021.12.23-23.51.32:609][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.23-23.51.32:609][  0]LogInit: Active device profile: [0000026DCAB43300][0000026DC97DEEC0 49] Windows
+[2021.12.23-23.51.32:609][  0]LogInit: Profiles: [0000026DCAB43300][0000026DC97DEEC0 49] Windows, [0000026DCAAF8F00][0000026DC97E7040 49] WindowsNoEditor, [0000026DCAB40F00][0000026DC97EB1C0 49] WindowsServer, [0000026DCAAFAB00][0000026DC97EF340 49] WindowsClient, [0000026DCAB42A00][0000026DC97F34C0 49] IOS, [0000026DCAAF9800][0000026DC97F7640 49] iPadAir, [0000026DCAB41700][0000026DC97FB7C0 49] iPadAir2, [0000026DCAAA3A00][0000026DC9803A80 49] IPadPro, [0000026DCAAA3B00][0000026DC97FFAC0 49] iPadAir3, [0000026DCAB42400][0000026DC98060C0 49] iPadAir4, [0000026DCAAA1400][0000026DC980A240 49] iPadMini2, [0000026DCAB41C00][0000026DC980E3C0 49] iPadMini3, [0000026DCAAA2500][0000026DC9812540 49] iPadMini4, [0000026DCAB40800][0000026DC98166C0 49] iPadMini5, [0000026DCAAE7300][0000026DC981A900 49] iPhone6, [0000026DCAAE7400][0000026DC97E2940 49] iPodTouch6, [0000026DCAAA0400][0000026DC9822B80 49] iPhone7, [0000026DCAAA0300][0000026DC981EBC0 49] iPodTouch7, [0000026DCAAE5300][0000026DC982AD40 49] iPhone5S, [0000026DCAAA3E00][0000026DC982EEC0 49] iPhone6Plus, [0000026DCAAE6600][0000026DC9833040 49] iPhone6S, [0000026DCAAA1200][0000026DC98371C0 49] iPhone6SPlus, [0000026DCAAE5B00][0000026DC983B340 49] iPhone7Plus, [0000026DCAAA1D00][0000026DC983F4C0 49] iPhoneSE, [0000026DCAAE4E00][0000026DC9843640 49] iPhone8, [0000026DCAAA0C00][0000026DC98477C0 49] iPhone8Plus, [0000026DCAAE6D00][0000026DC984B940 49] iPhoneX, [0000026DCAAA0A00][0000026DC984FAC0 49] iPhoneXS, [0000026DCAAE7A00][0000026DC98520C0 49] iPhoneXSMax, [0000026DCAAA1800][0000026DC9856240 49] iPhoneXR, [0000026DCAAE4D00][0000026DC985A3C0 49] iPhone11, [0000026DCAAA0E00][0000026DC985E540 49] iPhone11Pro, [0000026DCAAE6700][0000026DC98626C0 49] iPhone11ProMax, [0000026DCAAA2800][0000026DC9866840 49] iPhoneSE2, [0000026DCAAE6300][0000026DC9826980 49] iPhone12Mini, [0000026DCAAA2E00][0000026DC986AAC0 49] iPhone12, [0000026DCAAE5900][0000026DBA544C00 49] iPhone12Pro, [0000026DCAAA3900][0000026DBA548D40 49] iPhone12ProMax, [0000026DCAAE5500][0000026DBA550EC0 49] iPadPro105, [0000026DCAAA1100][0000026DBA555040 49] iPadPro129, [0000026DCAAE4B00][0000026DBA5591C0 49] iPadPro97, [0000026DCAAA3600][0000026DBA55D340 49] iPadPro2_129, [0000026DCAAE7800][0000026DBA5614C0 49] iPad5, [0000026DCAAA3D00][0000026DBA565640 49] iPad6, [0000026DCAAE6900][0000026DBA5697C0 49] iPad7, [0000026DCAAA1F00][0000026DBA56D940 49] iPad8, [0000026DCAAE7F00][0000026DCB881AC0 49] iPadPro11, [0000026DCAAA1B00][0000026DCB8840C0 49] iPadPro2_11, [0000026DCAAE4100][0000026DCB888240 49] iPadPro3_129, [0000026DCAAA2400][0000026DCB88C3C0 49] iPadPro4_129, [0000026DCAAE5F00][0000026DCB890540 49] AppleTV, [0000026DCAAA0200][0000026DCB8946C0 49] AppleTV4K, [0000026DCAAE6000][0000026DCB898840 49] TVOS, [0000026DCAAA1900][0000026DCB89C9C0 49] Mac, [0000026DCAAE7600][0000026DCB8A0B40 49] MacClient, [0000026DCAAA3800][0000026DBA54CC80 49] MacNoEditor, [0000026DCAAE5200][0000026DCB8A4DC0 49] MacServer, [0000026DCAAA2F00][0000026DCB8A8F00 49] Linux, [0000026DCAAE7200][0000026DCB8B1080 49] LinuxAArch64, [0000026DCAAA3200][0000026DCB8B5200 49] LinuxNoEditor, [0000026DCAAFA500][0000026DCB8B9380 49] LinuxAArch64NoEditor, [0000026DCAB80500][0000026DCB8BD500 49] LinuxClient, [0000026DCAAF8A00][0000026DCB8C1680 49] LinuxAArch64Client, [0000026DCAB81200][0000026DCB8C5800 49] LinuxServer, [0000026DCAAF9500][0000026DCB8C9980 49] LinuxAArch64Server, [0000026DCAB81800][0000026DCB8CDB00 49] Android, [0000026DCAAF8100][0000026DCB8D0100 49] Android_Low, [0000026DCAB81400][0000026DCB8D4280 49] Android_Mid, [0000026DCAAFAE00][0000026DCB8D8400 49] Android_High, [0000026DCAB80A00][0000026DCB8DC580 49] Android_Default, [0000026DCAAF9C00][0000026DCB8E0700 49] Android_Adreno4xx, [0000026DCAB81D00][0000026DCB8E4880 49] Android_Adreno5xx_Low, [0000026DCAAF8800][0000026DCB8E8A00 49] Android_Adreno5xx, [0000026DCAB80800][0000026DCB8ECB80 49] Android_Adreno6xx, [0000026DCAAFB200][0000026DCB8F0D00 49] Android_Adreno6xx_Vulkan, [0000026DCAB80200][0000026DCB8ACE40 49] Android_Mali_T6xx, [0000026DCAAFB300][0000026DCB8F4F80 49] Android_Mali_T7xx, [0000026DCAB80C00][0000026DCB8F90C0 49] Android_Mali_T8xx, [0000026DCAAF8500][0000026DCB901240 49] Android_Mali_G71, [0000026DCAB81700][0000026DCB9053C0 49] Android_Mali_G72, [0000026DCAAA0800][0000026DCB94D540 49] Android_Mali_G72_Vulkan, [0000026DCAAE6A00][0000026DCB9936C0 49] Android_Mali_G76, [0000026DCAAA3700][0000026DCB997840 49] Android_Mali_G76_Vulkan, [0000026DCAAE5800][0000026DCB99B9C0 49] Android_Mali_G77, [0000026DCAAA1000][0000026DCB99FB40 49] Android_Mali_G77_Vulkan, [0000026DCAAE6500][0000026DCB9A2140 49] Android_Mali_G78, [0000026DCAAA0500][0000026DCB9A62C0 49] Android_Mali_G78_Vulkan, [0000026DCAAE5000][0000026DCB9AA440 49] Android_Mali_G710, [0000026DCAAA3300][0000026DCB9AE5C0 49] Android_Mali_G710_Vulkan, [0000026DCAB80100][0000026DCB9B2740 49] Android_Vulkan_SM5, [0000026DCAAA2C00][0000026DCB9B68C0 49] Android_PowerVR_G6xxx, [0000026DCAB80300][0000026DCB9BAA40 49] Android_PowerVR_GT7xxx, [0000026DCAAA1500][0000026DCB9BEBC0 49] Android_PowerVR_GE8xxx, [0000026DCAB80600][0000026DCB9C2D40 49] Android_PowerVR_GM9xxx, [0000026DCAAA2600][0000026DCB9C6EC0 49] Android_PowerVR_GM9xxx_Vulkan, [0000026DCAB81F00][0000026DCB8FD000 49] Android_TegraK1, [0000026DCAAA0D00][0000026DCB9CB140 49] Android_Unknown_Vulkan, [0000026DCAB82200][0000026DCB9CF280 49] Lumin, [0000026DCAAA3C00][0000026DCB9D33C0 49] Lumin_Desktop, [0000026DCAB81500][0000026DCB9DB540 49] HoloLens, 
+[2021.12.23-23.51.32:795][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.23-23.51.32:795][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.23-23.51.32:795][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.23-23.51.32:795][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.23-23.51.32:796][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.23-23.51.32:814][  0]LogNetVersion: Dungeoner 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1542495505)
+[2021.12.23-23.51.33:326][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.12.23-23.51.33:404][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.23-23.51.33:412][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.12.23-23.51.33:412][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2021.12.23-23.51.33:412][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.23-23.51.33:752][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 2D53C1D24D2BBA56535112831592F8ED | Instance: 36EB75A5440E8C0EC74480A54130758E (HOME-PC-13800).
+[2021.12.23-23.51.33:797][  0]LogPython: Using Python 3.7.7
+[2021.12.23-23.51.34:703][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.23-23.51.34:708][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.23-23.51.34:947][  0]SourceControl: Source control is disabled
+[2021.12.23-23.51.34:947][  0]SourceControl: Source control is disabled
+[2021.12.23-23.51.34:951][  0]SourceControl: Source control is disabled
+[2021.12.23-23.51.34:954][  0]SourceControl: Source control is disabled
+[2021.12.23-23.51.34:965][  0]SourceControl: Source control is disabled
+[2021.12.23-23.51.34:971][  0]LogUProjectInfo: Found projects:
+[2021.12.23-23.51.35:218][  0]LogOpenImageDenoise: OIDN starting up
+[2021.12.23-23.51.35:269][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.23-23.51.35:298][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.23-23.51.35:298][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.23-23.51.35:450][  0]LogCollectionManager: Loaded 0 collections in 0.000919 seconds
+[2021.12.23-23.51.35:481][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Dungeoner/Saved/Collections/' took 0.00s
+[2021.12.23-23.51.35:481][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Dungeoner/Content/Developers/Denis/Collections/' took 0.00s
+[2021.12.23-23.51.35:481][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Dungeoner/Content/Collections/' took 0.00s
+[2021.12.23-23.51.35:481][  0]LogOcInput: OculusInput pre-init called
+[2021.12.23-23.51.35:776][  0]LogEngine: Initializing Engine...
+[2021.12.23-23.51.35:830][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.12.23-23.51.35:830][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.23-23.51.35:844][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.23-23.51.35:845][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.12.23-23.51.36:011][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.23-23.51.36:022][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.23-23.51.36:023][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.23-23.51.36:027][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.12.23-23.51.36:028][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.12.23-23.51.36:028][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.23-23.51.36:028][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.23-23.51.36:028][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.23-23.51.36:028][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.23-23.51.36:028][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.23-23.51.36:028][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.23-23.51.36:028][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.23-23.51.36:028][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.23-23.51.36:028][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.23-23.51.36:028][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.23-23.51.36:029][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.23-23.51.36:029][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.23-23.51.36:029][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.23-23.51.36:029][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.23-23.51.36:039][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.23-23.51.36:039][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.23-23.51.36:117][  0]LogAudioMixer: Display: Using Audio Device Динамики (Bloody Gaming Audio Device)
+[2021.12.23-23.51.36:121][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.23-23.51.36:123][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.23-23.51.36:123][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.23-23.51.36:124][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.23-23.51.36:124][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.23-23.51.36:124][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.23-23.51.36:126][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.23-23.51.36:126][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.23-23.51.36:126][  0]LogInit: FAudioDevice initialized.
+[2021.12.23-23.51.36:126][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.23-23.51.36:126][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.23-23.51.36:330][  0]LogDerivedDataCache: Saved boot cache 0.20s 94MB C:/Users/Denis/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.23-23.51.36:331][  0]LogInit: Texture streaming: Enabled
+[2021.12.23-23.51.36:355][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2021.12.23-23.51.36:363][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.23-23.51.36:363][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.23-23.51.36:367][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.23-23.51.36:399][  0]LogInit: Transaction tracking system initialized
+[2021.12.23-23.51.36:422][  0]BlueprintLog: New page: Editor Load
+[2021.12.23-23.51.36:489][  0]LocalizationService: Localization service is disabled
+[2021.12.23-23.51.36:515][  0]TimingProfiler: Initialize
+[2021.12.23-23.51.36:515][  0]TimingProfiler: OnSessionChanged
+[2021.12.23-23.51.36:515][  0]LoadingProfiler: Initialize
+[2021.12.23-23.51.36:515][  0]LoadingProfiler: OnSessionChanged
+[2021.12.23-23.51.36:515][  0]NetworkingProfiler: Initialize
+[2021.12.23-23.51.36:515][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.23-23.51.36:515][  0]MemoryProfiler: Initialize
+[2021.12.23-23.51.36:516][  0]MemoryProfiler: OnSessionChanged
+[2021.12.23-23.51.36:723][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.23-23.51.36:723][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.23-23.51.36:859][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Dungeoner/Content/' took 0.01s
+[2021.12.23-23.51.37:185][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.23-23.51.37:188][  0]SourceControl: Source control is disabled
+[2021.12.23-23.51.37:188][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.103
+[2021.12.23-23.51.37:188][  0]Cmd: MAP LOAD FILE="../../../../Unreal Projects/Dungeoner/Content/Map/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.23-23.51.37:189][  0]LightingResults: New page: Lighting Build
+[2021.12.23-23.51.37:190][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-23.51.37:190][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-23.51.37:191][  0]MapCheck: New page: Map Check
+[2021.12.23-23.51.37:191][  0]LightingResults: New page: Lighting Build
+[2021.12.23-23.51.37:199][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.23-23.51.37:202][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.12.23-23.51.39:409][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map'.
+[2021.12.23-23.51.39:411][  0]LogAIModule: Creating AISystem for world Map
+[2021.12.23-23.51.39:447][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.23-23.51.39:471][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.12.23-23.51.39:471][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.23-23.51.39:471][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,122ms to complete.
+[2021.12.23-23.51.39:471][  0]LogFileHelpers: Loading map 'Map' took 2.282
+[2021.12.23-23.51.39:474][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.388
+[2021.12.23-23.51.40:386][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.23-23.51.40:441][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.23-23.51.40:457][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.23-23.51.40:467][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.23-23.51.40:729][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0254 seconds. Added 3823 classes and 930 folders.
+[2021.12.23-23.51.40:830][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.12.23-23.51.41:003][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.23-23.51.41:003][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:003][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.23-23.51.41:003][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:003][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.12.23-23.51.41:003][  0]LogPakFile: OnPakFileMounted2Time == 0.000139
+[2021.12.23-23.51.41:025][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.23-23.51.41:025][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:025][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.23-23.51.41:025][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:025][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.12.23-23.51.41:025][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2021.12.23-23.51.41:054][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.23-23.51.41:054][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:054][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.23-23.51.41:054][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:054][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.12.23-23.51.41:054][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2021.12.23-23.51.41:064][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.23-23.51.41:064][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:064][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.23-23.51.41:064][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:065][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.12.23-23.51.41:065][  0]LogPakFile: OnPakFileMounted2Time == 0.000123
+[2021.12.23-23.51.41:068][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.23-23.51.41:068][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:068][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.23-23.51.41:068][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:068][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.12.23-23.51.41:068][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2021.12.23-23.51.41:088][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.23-23.51.41:088][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:088][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.23-23.51.41:088][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:088][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.12.23-23.51.41:088][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2021.12.23-23.51.41:096][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.23-23.51.41:096][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:096][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.23-23.51.41:096][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:096][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.12.23-23.51.41:096][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2021.12.23-23.51.41:102][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.23-23.51.41:102][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:102][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.23-23.51.41:102][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:102][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.12.23-23.51.41:102][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2021.12.23-23.51.41:143][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.23-23.51.41:143][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:143][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.23-23.51.41:143][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:143][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.12.23-23.51.41:143][  0]LogPakFile: OnPakFileMounted2Time == 0.000131
+[2021.12.23-23.51.41:242][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.23-23.51.41:242][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:242][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.23-23.51.41:243][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:243][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.12.23-23.51.41:243][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2021.12.23-23.51.41:288][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.23-23.51.41:288][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:288][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.23-23.51.41:288][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:288][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.12.23-23.51.41:289][  0]LogPakFile: OnPakFileMounted2Time == 0.000117
+[2021.12.23-23.51.41:318][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.23-23.51.41:318][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:318][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.23-23.51.41:318][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:319][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.12.23-23.51.41:319][  0]LogPakFile: OnPakFileMounted2Time == 0.000127
+[2021.12.23-23.51.41:322][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.23-23.51.41:322][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:322][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.23-23.51.41:322][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:322][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.12.23-23.51.41:322][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2021.12.23-23.51.41:417][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.23-23.51.41:417][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:417][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.23-23.51.41:417][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:417][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.12.23-23.51.41:417][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2021.12.23-23.51.41:453][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.23-23.51.41:453][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:453][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.23-23.51.41:453][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:453][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.12.23-23.51.41:453][  0]LogPakFile: OnPakFileMounted2Time == 0.000115
+[2021.12.23-23.51.41:478][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.23-23.51.41:478][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:478][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.23-23.51.41:479][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:479][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.12.23-23.51.41:479][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2021.12.23-23.51.41:488][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.23-23.51.41:488][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:488][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.23-23.51.41:488][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:488][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.12.23-23.51.41:488][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2021.12.23-23.51.41:491][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.23-23.51.41:491][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:491][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.23-23.51.41:491][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:491][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.12.23-23.51.41:491][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
+[2021.12.23-23.51.41:497][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.23-23.51.41:497][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:497][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.23-23.51.41:497][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:497][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.12.23-23.51.41:497][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2021.12.23-23.51.41:506][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.23-23.51.41:506][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:506][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.23-23.51.41:506][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:506][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.12.23-23.51.41:506][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2021.12.23-23.51.41:509][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.23-23.51.41:509][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:509][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.23-23.51.41:509][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:509][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.12.23-23.51.41:509][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2021.12.23-23.51.41:541][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.23-23.51.41:541][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:541][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.23-23.51.41:541][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:541][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.12.23-23.51.41:541][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2021.12.23-23.51.41:552][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.23-23.51.41:552][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:552][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.23-23.51.41:552][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:552][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.12.23-23.51.41:552][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2021.12.23-23.51.41:555][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.23-23.51.41:555][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:556][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.23-23.51.41:556][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:556][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.12.23-23.51.41:556][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2021.12.23-23.51.41:558][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.23-23.51.41:558][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:558][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.23-23.51.41:558][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:558][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.12.23-23.51.41:558][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2021.12.23-23.51.41:561][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.23-23.51.41:561][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.23-23.51.41:561][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.23-23.51.41:561][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.23-23.51.41:561][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.12.23-23.51.41:561][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2021.12.23-23.51.42:906][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.12.23-23.51.42:917][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.12.23-23.51.43:612][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.23-23.51.46:549][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.12.23-23.51.46:884][  0]LogSlate: Took 0.023582 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.23-23.51.46:931][  0]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.23-23.51.47:266][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.12.23-23.51.47:453][  0]LogSlate: Took 0.032545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.23-23.51.47:611][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.12.23-23.51.47:611][  0]LogLoad: (Engine Initialization) Total time: 19.53 seconds
+[2021.12.23-23.51.47:611][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.23-23.51.47:773][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.12.23-23.51.47:937][  1]LogAssetRegistry: Asset discovery search completed in 15.6565 seconds
+[2021.12.23-23.51.47:945][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.12.23-23.51.50:339][  7]LogEditorViewport: Clicking Background
+[2021.12.23-23.51.51:347][ 78]LogSlate: Window 'Message Log' being destroyed
+[2021.12.23-23.51.51:351][ 78]LogSlate: Window 'Message Log' being destroyed
+[2021.12.23-23.51.54:230][281]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2021.12.23-23.51.54:298][281]Candidate modules for hot reload:
+[2021.12.23-23.51.54:298][281]  Dungeoner
+[2021.12.23-23.51.54:299][281]Launching UnrealBuildTool... [E:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Dungeoner,6925 DungeonerEditor Win64 Development -Project="E:/Unreal Projects/Dungeoner/Dungeoner.uproject" "E:/Unreal Projects/Dungeoner/Dungeoner.uproject"  -IgnoreJunk]
+[2021.12.23-23.51.54:302][281]Warning: Starting HotReload took  0.1s.
+[2021.12.23-23.54.20:068][ 53]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.12.23-23.57.39:226][371]CompilerResultsLog: New page: Compilation - 24 дек. 2021 г., 07:57:38
+[2021.12.23-23.57.39:268][371]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\Dungeoner).
+[2021.12.23-23.57.39:268][371]CompilerResultsLog: Invalidating makefile for DungeonerEditor (source file modified)
+[2021.12.23-23.57.39:268][371]CompilerResultsLog: Parsing headers for DungeonerEditor
+[2021.12.23-23.57.39:268][371]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal Projects\Dungeoner\Dungeoner.uproject" "E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\DungeonerEditor\Development\DungeonerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Denis\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: Reflection code generated for DungeonerEditor in 26,1417903 seconds
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: Building DungeonerEditor...
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: Using Visual Studio 2022 14.30.30706 toolchain (D:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.20348.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: Distributing 12 actions to XGE
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: License is invalid:
+[2021.12.23-23.57.39:269][371]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2021.12.23-23.57.39:269][371]CompilerResultsLog:     This build will run in standalone mode.
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: 
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: -------------------------------------------------------------------------------
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: 
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: Build ID: {EC916D0A-CA36-48A6-9783-84298842AA3E}
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: 
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: SharedPCH.Engine.ShadowErrors.cpp (4:17.53 at +0:00)
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: DungeonerGameModeBase.cpp (0:06.28 at +4:18)
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: Dungeoner.cpp (0:00.89 at +4:25)
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: SortingArray.cpp (0:02.53 at +4:26)
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: Dungeoner.init.gen.cpp (0:00.98 at +4:28)
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: DungeonerGameModeBase.gen.cpp (0:01.98 at +4:29)
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: Increase.gen.cpp (0:01.29 at +4:31)
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: SortingArray.gen.cpp (0:01.17 at +4:33)
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: Default.rc2 (0:02.37 at +4:34)
+[2021.12.23-23.57.39:269][371]CompilerResultsLog: UE4Editor-Dungeoner-6925.lib (0:01.34 at +4:36)
+[2021.12.23-23.57.39:270][371]CompilerResultsLog:    ????????? ??????⥪? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-6925.lib ? ??ꥪ? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-6925.exp
+[2021.12.23-23.57.39:270][371]CompilerResultsLog: UE4Editor-Dungeoner-6925.dll (0:18.07 at +4:37)
+[2021.12.23-23.57.39:270][371]CompilerResultsLog:    ????????? ??????⥪? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-6925.suppressed.lib ? ??ꥪ? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-6925.suppressed.exp
+[2021.12.23-23.57.39:270][371]CompilerResultsLog: Error: Increase.gen.cpp.obj : error LNK2019: ??뫪? ?? ??ࠧ??襭??? ???譨? ᨬ??? "public: __cdecl FIncrease::FIncrease(void)" (??0FIncrease@@QEAA@XZ) ? ?㭪樨 "public: virtual void __cdecl UScriptStruct::TCppStructOps<struct FIncrease>::Construct(void *)" (?Construct@?$TCppStructOps@UFIncrease@@@UScriptStruct@@UEAAXPEAX@Z).
+[2021.12.23-23.57.39:270][371]CompilerResultsLog: Error: E:\Unreal Projects\Dungeoner\Binaries\Win64\UE4Editor-Dungeoner-6925.dll : fatal error LNK1120: ??ࠧ??襭??? ???譨? ??????⮢: 1
+[2021.12.23-23.57.39:270][371]CompilerResultsLog: 
+[2021.12.23-23.57.39:270][371]CompilerResultsLog: Error executing E:\UE_4.27\Engine\Build\Windows\link-filter\link-filter.exe (tool returned code: 1120)
+[2021.12.23-23.57.39:270][371]CompilerResultsLog: ---------------------- Done ----------------------
+[2021.12.23-23.57.39:270][371]CompilerResultsLog: 
+[2021.12.23-23.57.39:270][371]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2021.12.23-23.57.39:270][371]CompilerResultsLog: 
+[2021.12.23-23.57.39:270][371]CompilerResultsLog: 1 build system warning(s):
+[2021.12.23-23.57.39:270][371]CompilerResultsLog:    - License is invalid
+[2021.12.23-23.57.39:270][371]CompilerResultsLog: 
+[2021.12.23-23.57.39:317][371]LogMainFrame: MainFrame: Module compiling took 345.087 seconds
+[2021.12.23-23.57.39:570][371]Warning: HotReload failed, recompile failed
+[2021.12.23-23.57.49:075][895]LogSlate: Took 0.291838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.12.23-23.57.51:462][ 55]LogSlate: Took 0.129857 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.12.23-23.57.51:516][ 55]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: '⥪ (U+296a)'
+[2021.12.23-23.57.51:703][ 55]LogSlate: Took 0.183071 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.12.23-23.57.54:188][ 55]LogSlate: Took 0.271942 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NotoColorEmoji.ttf' (7610K)
+[2021.12.23-23.59.15:372][479]LogSlate: Window 'Message Log' being destroyed
+[2021.12.23-23.59.15:377][479]LogSlate: Window 'Message Log' being destroyed
+[2021.12.23-23.59.31:192][738]LogSlate: Took 0.015586 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.23-23.59.31:284][738]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.23-23.59.31:602][738]LogSlate: Took 0.048384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.23-23.59.48:992][343]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.12.24-00.00.19:598][529]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2021.12.24-00.00.19:604][529]Candidate modules for hot reload:
+[2021.12.24-00.00.19:604][529]  Dungeoner
+[2021.12.24-00.00.19:604][529]Launching UnrealBuildTool... [E:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Dungeoner,4220 DungeonerEditor Win64 Development -Project="E:/Unreal Projects/Dungeoner/Dungeoner.uproject" "E:/Unreal Projects/Dungeoner/Dungeoner.uproject"  -IgnoreJunk]
+[2021.12.24-00.00.19:607][529]Warning: Starting HotReload took  0.4s.
+[2021.12.24-00.02.05:408][527]CompilerResultsLog: New page: Compilation - 24 дек. 2021 г., 08:02:05
+[2021.12.24-00.02.05:408][527]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\Dungeoner).
+[2021.12.24-00.02.05:408][527]CompilerResultsLog: Invalidating makefile for DungeonerEditor (source file added)
+[2021.12.24-00.02.05:408][527]CompilerResultsLog: Parsing headers for DungeonerEditor
+[2021.12.24-00.02.05:408][527]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal Projects\Dungeoner\Dungeoner.uproject" "E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\DungeonerEditor\Development\DungeonerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Denis\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.24-00.02.05:408][527]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.12.24-00.02.05:408][527]CompilerResultsLog: Reflection code generated for DungeonerEditor in 51,4104636 seconds
+[2021.12.24-00.02.05:408][527]CompilerResultsLog: Building DungeonerEditor...
+[2021.12.24-00.02.05:408][527]CompilerResultsLog: Using Visual Studio 2022 14.30.30706 toolchain (D:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.20348.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.24-00.02.05:408][527]CompilerResultsLog: Distributing 6 actions to XGE
+[2021.12.24-00.02.05:408][527]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2021.12.24-00.02.05:408][527]CompilerResultsLog: License is invalid:
+[2021.12.24-00.02.05:409][527]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2021.12.24-00.02.05:409][527]CompilerResultsLog:     This build will run in standalone mode.
+[2021.12.24-00.02.05:409][527]CompilerResultsLog: 
+[2021.12.24-00.02.05:409][527]CompilerResultsLog: -------------------------------------------------------------------------------
+[2021.12.24-00.02.05:409][527]CompilerResultsLog: 
+[2021.12.24-00.02.05:409][527]CompilerResultsLog: Build ID: {3BB20C2D-082F-4D61-B342-763F772F7DDA}
+[2021.12.24-00.02.05:409][527]CompilerResultsLog: 
+[2021.12.24-00.02.05:409][527]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2021.12.24-00.02.05:410][527]CompilerResultsLog: Increase.cpp (0:02.04 at +0:00)
+[2021.12.24-00.02.05:410][527]CompilerResultsLog: E:\Unreal Projects\Dungeoner\Source\Dungeoner\Structure\Increase.cpp(4): fatal error C1083: ?? 㤠???? ??????? 䠩? ????祭??: Increase.h: No such file or directory,
+[2021.12.24-00.02.05:410][527]CompilerResultsLog: 
+[2021.12.24-00.02.05:410][527]CompilerResultsLog: Error executing E:\UE_4.27\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+[2021.12.24-00.02.05:410][527]CompilerResultsLog: 321Increase.gen.cpp (0:00.59 at +0:02)
+[2021.12.24-00.02.05:410][527]CompilerResultsLog: E:\Unreal Projects\Dungeoner\Source\Dungeoner/Structure/321Increase.h(5): fatal error C1083: ?? 㤠???? ??????? 䠩? ????祭??: Increase.generated.h: No such file or directory,
+[2021.12.24-00.02.05:410][527]CompilerResultsLog: 
+[2021.12.24-00.02.05:410][527]CompilerResultsLog: Error executing E:\UE_4.27\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+[2021.12.24-00.02.05:410][527]CompilerResultsLog: Dungeoner.init.gen.cpp (0:00.93 at +0:03)
+[2021.12.24-00.02.05:410][527]CompilerResultsLog: ---------------------- Done ----------------------
+[2021.12.24-00.02.05:410][527]CompilerResultsLog: 
+[2021.12.24-00.02.05:410][527]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2021.12.24-00.02.05:410][527]CompilerResultsLog: 
+[2021.12.24-00.02.05:410][527]CompilerResultsLog: 1 build system warning(s):
+[2021.12.24-00.02.05:410][527]CompilerResultsLog:    - License is invalid
+[2021.12.24-00.02.05:410][527]CompilerResultsLog: 
+[2021.12.24-00.02.05:410][527]LogMainFrame: MainFrame: Module compiling took 105.811 seconds
+[2021.12.24-00.02.05:410][527]Warning: HotReload failed, recompile failed
+[2021.12.24-00.03.26:228][158]LogSlate: Window 'Message Log' being destroyed
+[2021.12.24-00.03.26:230][158]LogSlate: Window 'Message Log' being destroyed
+[2021.12.24-00.03.28:000][203]Candidate modules for hot reload:
+[2021.12.24-00.03.28:000][203]  Dungeoner
+[2021.12.24-00.03.28:000][203]Launching UnrealBuildTool... [E:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Dungeoner,2306 DungeonerEditor Win64 Development -Project="E:/Unreal Projects/Dungeoner/Dungeoner.uproject" "E:/Unreal Projects/Dungeoner/Dungeoner.uproject"  -IgnoreJunk]
+[2021.12.24-00.03.28:002][203]Warning: Starting HotReload took  0.3s.
+[2021.12.24-00.03.49:726][745]CompilerResultsLog: New page: Compilation - 24 дек. 2021 г., 08:03:49
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\Dungeoner).
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: Invalidating makefile for DungeonerEditor (UHT files changed)
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: Parsing headers for DungeonerEditor
+[2021.12.24-00.03.49:727][745]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal Projects\Dungeoner\Dungeoner.uproject" "E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\DungeonerEditor\Development\DungeonerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Denis\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: Reflection code generated for DungeonerEditor in 9,2607877 seconds
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: Building DungeonerEditor...
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: Using Visual Studio 2022 14.30.30706 toolchain (D:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.20348.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: Distributing 6 actions to XGE
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: License is invalid:
+[2021.12.24-00.03.49:727][745]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2021.12.24-00.03.49:727][745]CompilerResultsLog:     This build will run in standalone mode.
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: 
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: -------------------------------------------------------------------------------
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: 
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: Build ID: {D98329F4-4910-46EB-AA9F-12923BC5251D}
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: 
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: Increase.cpp (0:00.92 at +0:00)
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: Dungeoner.init.gen.cpp (0:01.39 at +0:00)
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: Increase.gen.cpp (0:01.39 at +0:02)
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: UE4Editor-Dungeoner-2306.lib (0:00.29 at +0:03)
+[2021.12.24-00.03.49:727][745]CompilerResultsLog:    ????????? ??????⥪? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-2306.lib ? ??ꥪ? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-2306.exp
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: UE4Editor-Dungeoner-2306.dll (0:01.37 at +0:04)
+[2021.12.24-00.03.49:727][745]CompilerResultsLog:    ????????? ??????⥪? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-2306.suppressed.lib ? ??ꥪ? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-2306.suppressed.exp
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: Error: Increase.gen.cpp.obj : error LNK2019: ??뫪? ?? ??ࠧ??襭??? ???譨? ᨬ??? "public: __cdecl FIncrease::FIncrease(void)" (??0FIncrease@@QEAA@XZ) ? ?㭪樨 "public: virtual void __cdecl UScriptStruct::TCppStructOps<struct FIncrease>::Construct(void *)" (?Construct@?$TCppStructOps@UFIncrease@@@UScriptStruct@@UEAAXPEAX@Z).
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: Error: E:\Unreal Projects\Dungeoner\Binaries\Win64\UE4Editor-Dungeoner-2306.dll : fatal error LNK1120: ??ࠧ??襭??? ???譨? ??????⮢: 1
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: 
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: Error executing E:\UE_4.27\Engine\Build\Windows\link-filter\link-filter.exe (tool returned code: 1120)
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: ---------------------- Done ----------------------
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: 
+[2021.12.24-00.03.49:727][745]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: 
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: 1 build system warning(s):
+[2021.12.24-00.03.49:727][745]CompilerResultsLog:    - License is invalid
+[2021.12.24-00.03.49:727][745]CompilerResultsLog: 
+[2021.12.24-00.03.49:727][745]LogMainFrame: MainFrame: Module compiling took 21.731 seconds
+[2021.12.24-00.03.49:728][745]Warning: HotReload failed, recompile failed
+[2021.12.24-00.05.30:850][456]Candidate modules for hot reload:
+[2021.12.24-00.05.30:850][456]  Dungeoner
+[2021.12.24-00.05.30:850][456]Launching UnrealBuildTool... [E:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Dungeoner,2111 DungeonerEditor Win64 Development -Project="E:/Unreal Projects/Dungeoner/Dungeoner.uproject" "E:/Unreal Projects/Dungeoner/Dungeoner.uproject"  -IgnoreJunk]
+[2021.12.24-00.05.30:851][456]Warning: Starting HotReload took  0.0s.
+[2021.12.24-00.05.37:511][906]CompilerResultsLog: New page: Compilation - 24 дек. 2021 г., 08:05:37
+[2021.12.24-00.05.37:665][906]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\Dungeoner).
+[2021.12.24-00.05.37:665][906]CompilerResultsLog: Building DungeonerEditor...
+[2021.12.24-00.05.37:665][906]CompilerResultsLog: Using Visual Studio 2022 14.30.30706 toolchain (D:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.20348.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.24-00.05.37:665][906]CompilerResultsLog: Distributing 4 actions to XGE
+[2021.12.24-00.05.37:666][906]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2021.12.24-00.05.37:666][906]CompilerResultsLog: License is invalid:
+[2021.12.24-00.05.37:666][906]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2021.12.24-00.05.37:666][906]CompilerResultsLog:     This build will run in standalone mode.
+[2021.12.24-00.05.37:666][906]CompilerResultsLog: 
+[2021.12.24-00.05.37:666][906]CompilerResultsLog: -------------------------------------------------------------------------------
+[2021.12.24-00.05.37:666][906]CompilerResultsLog: 
+[2021.12.24-00.05.37:666][906]CompilerResultsLog: Build ID: {F93CEC16-F49F-4438-846F-D172B3910287}
+[2021.12.24-00.05.37:666][906]CompilerResultsLog: 
+[2021.12.24-00.05.37:666][906]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2021.12.24-00.05.37:666][906]CompilerResultsLog: Increase.gen.cpp (0:01.28 at +0:00)
+[2021.12.24-00.05.37:666][906]CompilerResultsLog: UE4Editor-Dungeoner-2111.lib (0:00.57 at +0:01)
+[2021.12.24-00.05.37:666][906]CompilerResultsLog:    ????????? ??????⥪? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-2111.lib ? ??ꥪ? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-2111.exp
+[2021.12.24-00.05.37:666][906]CompilerResultsLog: UE4Editor-Dungeoner-2111.dll (0:01.86 at +0:01)
+[2021.12.24-00.05.37:666][906]CompilerResultsLog:    ????????? ??????⥪? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-2111.suppressed.lib ? ??ꥪ? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-2111.suppressed.exp
+[2021.12.24-00.05.37:666][906]CompilerResultsLog: Error: Increase.gen.cpp.obj : error LNK2019: ??뫪? ?? ??ࠧ??襭??? ???譨? ᨬ??? "public: __cdecl FIncrease::FIncrease(void)" (??0FIncrease@@QEAA@XZ) ? ?㭪樨 "public: virtual void __cdecl UScriptStruct::TCppStructOps<struct FIncrease>::Construct(void *)" (?Construct@?$TCppStructOps@UFIncrease@@@UScriptStruct@@UEAAXPEAX@Z).
+[2021.12.24-00.05.37:666][906]CompilerResultsLog: Error: E:\Unreal Projects\Dungeoner\Binaries\Win64\UE4Editor-Dungeoner-2111.dll : fatal error LNK1120: ??ࠧ??襭??? ???譨? ??????⮢: 1
+[2021.12.24-00.05.37:666][906]CompilerResultsLog: 
+[2021.12.24-00.05.37:666][906]CompilerResultsLog: Error executing E:\UE_4.27\Engine\Build\Windows\link-filter\link-filter.exe (tool returned code: 1120)
+[2021.12.24-00.05.37:666][906]CompilerResultsLog: ---------------------- Done ----------------------
+[2021.12.24-00.05.37:667][906]CompilerResultsLog: 
+[2021.12.24-00.05.37:667][906]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2021.12.24-00.05.37:667][906]CompilerResultsLog: 
+[2021.12.24-00.05.37:667][906]CompilerResultsLog: 1 build system warning(s):
+[2021.12.24-00.05.37:667][906]CompilerResultsLog:    - License is invalid
+[2021.12.24-00.05.37:667][906]CompilerResultsLog: 
+[2021.12.24-00.05.37:667][906]LogMainFrame: MainFrame: Module compiling took 6.821 seconds
+[2021.12.24-00.05.37:667][906]Warning: HotReload failed, recompile failed
+[2021.12.24-00.07.16:540][185]LogSlate: Window 'Message Log' being destroyed
+[2021.12.24-00.07.16:546][185]LogSlate: Window 'Message Log' being destroyed
+[2021.12.24-00.07.17:128][204]LogSlate: Took 0.027077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.24-00.07.17:756][255]Candidate modules for hot reload:
+[2021.12.24-00.07.17:756][255]  Dungeoner
+[2021.12.24-00.07.17:756][255]Launching UnrealBuildTool... [E:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Dungeoner,8852 DungeonerEditor Win64 Development -Project="E:/Unreal Projects/Dungeoner/Dungeoner.uproject" "E:/Unreal Projects/Dungeoner/Dungeoner.uproject"  -IgnoreJunk]
+[2021.12.24-00.07.17:758][255]Warning: Starting HotReload took  0.0s.
+[2021.12.24-00.07.39:227][746]CompilerResultsLog: New page: Compilation - 24 дек. 2021 г., 08:07:39
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\Dungeoner).
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: Invalidating makefile for DungeonerEditor (source file removed)
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: Parsing headers for DungeonerEditor
+[2021.12.24-00.07.39:228][746]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal Projects\Dungeoner\Dungeoner.uproject" "E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\DungeonerEditor\Development\DungeonerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Denis\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: Reflection code generated for DungeonerEditor in 8,6192456 seconds
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: Building DungeonerEditor...
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: Using Visual Studio 2022 14.30.30706 toolchain (D:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.20348.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: Distributing 4 actions to XGE
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: License is invalid:
+[2021.12.24-00.07.39:228][746]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2021.12.24-00.07.39:228][746]CompilerResultsLog:     This build will run in standalone mode.
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: 
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: -------------------------------------------------------------------------------
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: 
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: Build ID: {D32AC442-1264-4282-8465-844E6CDBB8CF}
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: 
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: Dungeoner.init.gen.cpp (0:01.12 at +0:00)
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: UE4Editor-Dungeoner-8852.lib (0:00.79 at +0:01)
+[2021.12.24-00.07.39:228][746]CompilerResultsLog:    ????????? ??????⥪? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-8852.lib ? ??ꥪ? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-8852.exp
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: UE4Editor-Dungeoner-8852.dll (0:02.26 at +0:01)
+[2021.12.24-00.07.39:228][746]CompilerResultsLog:    ????????? ??????⥪? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-8852.suppressed.lib ? ??ꥪ? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-8852.suppressed.exp
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: DungeonerEditor.target (0:03.50 at +0:04)
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: ---------------------- Done ----------------------
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: 
+[2021.12.24-00.07.39:228][746]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: 
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: 1 build system warning(s):
+[2021.12.24-00.07.39:228][746]CompilerResultsLog:    - License is invalid
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: 
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: Total time in XGE executor: 8,08 seconds
+[2021.12.24-00.07.39:228][746]CompilerResultsLog: Total execution time: 21,32 seconds
+[2021.12.24-00.07.39:228][746]LogMainFrame: MainFrame: Module compiling took 21.475 seconds
+[2021.12.24-00.07.39:455][746]LogClass: Could not find existing class DungeonerGameModeBase in package /Script/Dungeoner for HotReload, assuming new class
+[2021.12.24-00.07.39:456][746]LogClass: Could not find existing class SortingArray in package /Script/Dungeoner for HotReload, assuming new class
+[2021.12.24-00.07.39:456][746]LogClass: Function FloatSort is new.
+[2021.12.24-00.07.39:456][746]LogClass: Function IntegerSort is new.
+[2021.12.24-00.07.39:456][746]LogClass: Function StringSort is new.
+[2021.12.24-00.07.39:500][746]LogHotReload: Re-instancing DungeonerGameModeBase after hot-reload.
+[2021.12.24-00.07.39:732][746]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Dungeoner' in 0.0032 seconds. Added 2 classes and 3 folders.
+[2021.12.24-00.07.39:768][746]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.12.24-00.07.39:858][746]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0361 seconds. Added 3824 classes and 931 folders.
+[2021.12.24-00.07.39:964][746]Display: HotReload took 22.2s.
+[2021.12.24-00.09.13:331][388]Candidate modules for hot reload:
+[2021.12.24-00.09.13:331][388]  Dungeoner
+[2021.12.24-00.09.13:331][388]Launching UnrealBuildTool... [E:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Dungeoner,4509 DungeonerEditor Win64 Development -Project="E:/Unreal Projects/Dungeoner/Dungeoner.uproject" "E:/Unreal Projects/Dungeoner/Dungeoner.uproject"  -IgnoreJunk]
+[2021.12.24-00.09.13:332][388]Warning: Starting HotReload took  0.0s.
+[2021.12.24-00.09.32:514][719]CompilerResultsLog: New page: Compilation - 24 дек. 2021 г., 08:09:32
+[2021.12.24-00.09.32:514][719]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\Dungeoner).
+[2021.12.24-00.09.32:514][719]CompilerResultsLog: Invalidating makefile for DungeonerEditor (UHT files changed)
+[2021.12.24-00.09.32:514][719]CompilerResultsLog: Parsing headers for DungeonerEditor
+[2021.12.24-00.09.32:514][719]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal Projects\Dungeoner\Dungeoner.uproject" "E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\DungeonerEditor\Development\DungeonerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Denis\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.24-00.09.32:514][719]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.12.24-00.09.32:514][719]CompilerResultsLog: Reflection code generated for DungeonerEditor in 7,7307362 seconds
+[2021.12.24-00.09.32:514][719]CompilerResultsLog: Building DungeonerEditor...
+[2021.12.24-00.09.32:514][719]CompilerResultsLog: Using Visual Studio 2022 14.30.30706 toolchain (D:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.20348.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.24-00.09.32:514][719]CompilerResultsLog: Distributing 5 actions to XGE
+[2021.12.24-00.09.32:514][719]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: License is invalid:
+[2021.12.24-00.09.32:515][719]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2021.12.24-00.09.32:515][719]CompilerResultsLog:     This build will run in standalone mode.
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: 
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: -------------------------------------------------------------------------------
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: 
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: Build ID: {B5954875-951D-461C-8912-DE26F690C9C4}
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: 
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: Dungeoner.init.gen.cpp (0:00.89 at +0:00)
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: Increase.gen.cpp (0:01.87 at +0:00)
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: UE4Editor-Dungeoner-4509.lib (0:00.84 at +0:02)
+[2021.12.24-00.09.32:515][719]CompilerResultsLog:    ????????? ??????⥪? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-4509.lib ? ??ꥪ? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-4509.exp
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: UE4Editor-Dungeoner-4509.dll (0:01.46 at +0:03)
+[2021.12.24-00.09.32:515][719]CompilerResultsLog:    ????????? ??????⥪? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-4509.suppressed.lib ? ??ꥪ? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-4509.suppressed.exp
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: Error: Increase.gen.cpp.obj : error LNK2019: ??뫪? ?? ??ࠧ??襭??? ???譨? ᨬ??? "public: __cdecl FIncrease::FIncrease(void)" (??0FIncrease@@QEAA@XZ) ? ?㭪樨 "public: virtual void __cdecl UScriptStruct::TCppStructOps<struct FIncrease>::Construct(void *)" (?Construct@?$TCppStructOps@UFIncrease@@@UScriptStruct@@UEAAXPEAX@Z).
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: Error: E:\Unreal Projects\Dungeoner\Binaries\Win64\UE4Editor-Dungeoner-4509.dll : fatal error LNK1120: ??ࠧ??襭??? ???譨? ??????⮢: 1
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: 
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: Error executing E:\UE_4.27\Engine\Build\Windows\link-filter\link-filter.exe (tool returned code: 1120)
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: ---------------------- Done ----------------------
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: 
+[2021.12.24-00.09.32:515][719]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: 
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: 1 build system warning(s):
+[2021.12.24-00.09.32:515][719]CompilerResultsLog:    - License is invalid
+[2021.12.24-00.09.32:515][719]CompilerResultsLog: 
+[2021.12.24-00.09.32:515][719]LogMainFrame: MainFrame: Module compiling took 19.188 seconds
+[2021.12.24-00.09.32:515][719]Warning: HotReload failed, recompile failed
+[2021.12.24-00.09.41:371][299]LogSlate: Window 'Message Log' being destroyed
+[2021.12.24-00.09.41:378][299]LogSlate: Window 'Message Log' being destroyed
+[2021.12.24-00.10.11:310][629]Candidate modules for hot reload:
+[2021.12.24-00.10.11:310][629]  Dungeoner
+[2021.12.24-00.10.11:310][629]Launching UnrealBuildTool... [E:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Dungeoner,9065 DungeonerEditor Win64 Development -Project="E:/Unreal Projects/Dungeoner/Dungeoner.uproject" "E:/Unreal Projects/Dungeoner/Dungeoner.uproject"  -IgnoreJunk]
+[2021.12.24-00.10.11:311][629]Warning: Starting HotReload took  0.0s.
+[2021.12.24-00.10.22:186][376]CompilerResultsLog: New page: Compilation - 24 дек. 2021 г., 08:10:22
+[2021.12.24-00.10.22:186][376]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\Dungeoner).
+[2021.12.24-00.10.22:186][376]CompilerResultsLog: Invalidating makefile for DungeonerEditor (Increase.gen.cpp.obj.response deleted)
+[2021.12.24-00.10.22:186][376]CompilerResultsLog: Building DungeonerEditor...
+[2021.12.24-00.10.22:186][376]CompilerResultsLog: Using Visual Studio 2022 14.30.30706 toolchain (D:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.20348.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.24-00.10.22:186][376]CompilerResultsLog: Distributing 3 actions to XGE
+[2021.12.24-00.10.22:186][376]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2021.12.24-00.10.22:186][376]CompilerResultsLog: License is invalid:
+[2021.12.24-00.10.22:186][376]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2021.12.24-00.10.22:186][376]CompilerResultsLog:     This build will run in standalone mode.
+[2021.12.24-00.10.22:186][376]CompilerResultsLog: 
+[2021.12.24-00.10.22:186][376]CompilerResultsLog: -------------------------------------------------------------------------------
+[2021.12.24-00.10.22:186][376]CompilerResultsLog: 
+[2021.12.24-00.10.22:186][376]CompilerResultsLog: Build ID: {5928F0A0-B681-4C84-8302-D4683994BA04}
+[2021.12.24-00.10.22:186][376]CompilerResultsLog: 
+[2021.12.24-00.10.22:186][376]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2021.12.24-00.10.22:186][376]CompilerResultsLog: UE4Editor-Dungeoner-9065.lib (0:00.92 at +0:00)
+[2021.12.24-00.10.22:186][376]CompilerResultsLog:    ????????? ??????⥪? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-9065.lib ? ??ꥪ? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-9065.exp
+[2021.12.24-00.10.22:187][376]CompilerResultsLog: UE4Editor-Dungeoner-9065.dll (0:02.57 at +0:00)
+[2021.12.24-00.10.22:187][376]CompilerResultsLog:    ????????? ??????⥪? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-9065.suppressed.lib ? ??ꥪ? E:\Unreal Projects\Dungeoner\Intermediate\Build\Win64\UE4Editor\Development\Dungeoner\UE4Editor-Dungeoner-9065.suppressed.exp
+[2021.12.24-00.10.22:187][376]CompilerResultsLog: DungeonerEditor.target (0:00.82 at +0:03)
+[2021.12.24-00.10.22:187][376]CompilerResultsLog: ---------------------- Done ----------------------
+[2021.12.24-00.10.22:187][376]CompilerResultsLog: 
+[2021.12.24-00.10.22:187][376]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2021.12.24-00.10.22:187][376]CompilerResultsLog: 
+[2021.12.24-00.10.22:187][376]CompilerResultsLog: 1 build system warning(s):
+[2021.12.24-00.10.22:187][376]CompilerResultsLog:    - License is invalid
+[2021.12.24-00.10.22:187][376]CompilerResultsLog: 
+[2021.12.24-00.10.22:187][376]CompilerResultsLog: Total time in XGE executor: 4,69 seconds
+[2021.12.24-00.10.22:187][376]CompilerResultsLog: Total execution time: 10,74 seconds
+[2021.12.24-00.10.22:187][376]LogMainFrame: MainFrame: Module compiling took 10.880 seconds
+[2021.12.24-00.10.22:338][376]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Dungeoner' in 0.0007 seconds. Added 2 classes and 3 folders.
+[2021.12.24-00.10.22:546][376]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.24-00.10.25:230][376]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0174 seconds. Added 3824 classes and 931 folders.
+[2021.12.24-00.10.25:230][376]Display: HotReload took 13.9s.
+[2021.12.24-00.11.09:719][800]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/View/StatsHint.StatsHint
+[2021.12.24-00.11.12:398][800]LogEnum: Warning: Enum name collision: 'PhysicalDamageScaling::NewEnumerator0' is in both '/Game/Blueprint/Enums/PhysicalDamageScaling.PhysicalDamageScaling' and '/Game/Enums/PhysicalDamageScaling.PhysicalDamageScaling'
+[2021.12.24-00.11.12:398][800]LogEnum: Warning: Enum name collision: 'PhysicalDamageScaling::NewEnumerator1' is in both '/Game/Blueprint/Enums/PhysicalDamageScaling.PhysicalDamageScaling' and '/Game/Enums/PhysicalDamageScaling.PhysicalDamageScaling'
+[2021.12.24-00.11.12:398][800]LogEnum: Warning: Enum name collision: 'PhysicalDamageScaling::NewEnumerator2' is in both '/Game/Blueprint/Enums/PhysicalDamageScaling.PhysicalDamageScaling' and '/Game/Enums/PhysicalDamageScaling.PhysicalDamageScaling'
+[2021.12.24-00.11.12:398][800]LogEnum: Warning: Enum name collision: 'PhysicalDamageScaling::PhysicalDamageScaling_MAX' is in both '/Game/Blueprint/Enums/PhysicalDamageScaling.PhysicalDamageScaling' and '/Game/Enums/PhysicalDamageScaling.PhysicalDamageScaling'
+[2021.12.24-00.11.12:398][800]LogEnum: Warning: Enum name collision: 'PhysicalDamageScaling::NewEnumerator0' is in both '/Game/Blueprint/Enums/PhysicalDamageScaling.PhysicalDamageScaling' and '/Game/Enums/PhysicalDamageScaling.PhysicalDamageScaling'
+[2021.12.24-00.11.12:398][800]LogEnum: Warning: Enum name collision: 'PhysicalDamageScaling::NewEnumerator1' is in both '/Game/Blueprint/Enums/PhysicalDamageScaling.PhysicalDamageScaling' and '/Game/Enums/PhysicalDamageScaling.PhysicalDamageScaling'
+[2021.12.24-00.11.12:398][800]LogEnum: Warning: Enum name collision: 'PhysicalDamageScaling::NewEnumerator2' is in both '/Game/Blueprint/Enums/PhysicalDamageScaling.PhysicalDamageScaling' and '/Game/Enums/PhysicalDamageScaling.PhysicalDamageScaling'
+[2021.12.24-00.11.17:529][800]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 126 classes and 0 folders.
+[2021.12.24-00.13.05:484][ 56]LogSlate: Took 0.079517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.12.24-00.13.11:583][361]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.24-00.13.11:583][361]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.24-00.14.03:441][430]MapCheck: New page: Map Check
+[2021.12.24-00.14.05:115][430]Cmd: MAP REBUILD ALLVISIBLE
+[2021.12.24-00.14.05:115][430]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.12.24-00.14.06:189][430]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=false
+[2021.12.24-00.14.07:599][430]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.12.24-00.14.07:599][430]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.12.24-00.14.07:599][430]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.12.24-00.14.08:925][430]LogUObjectHash: Compacting FUObjectHashTables data took  13.58ms
+[2021.12.24-00.14.10:134][430]LightingResults: New page: Lighting Build - 24 дек. 2021 г., 08:14:10
+[2021.12.24-00.14.11:908][430]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.12.24-00.14.13:677][430]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.12.24-00.14.14:213][430]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.12.24-00.14.21:537][430]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2021.12.24-00.14.24:147][430]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:8008
+
+Server stack trace: 
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   в System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   в System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   в System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   в System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   в System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   в System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   в System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   в NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   в NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) в D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:строка 2811
+[2021.12.24-00.14.33:152][430]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2021.12.24-00.14.33:153][430]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:8008
+
+Server stack trace: 
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   в System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   в System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   в System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   в System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   в System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   в System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   в System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   в NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   в NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) в D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:строка 2811
+[2021.12.24-00.14.50:954][430]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.12.24-00.14.50:955][430]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13800
+[2021.12.24-00.16.01:008][430]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.12.24-00.16.01:009][430]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.12.24-00.16.01:009][430]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.12.24-00.16.01:009][430]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.12.24-00.16.01:009][430]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.12.24-00.16.01:009][430]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.12.24-00.16.05:133][430]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.12.24-00.16.05:133][430]MapCheck: New page: Map - 24 дек. 2021 г., 08:16:05
+[2021.12.24-00.16.05:697][430]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 563,742ms to complete.
+[2021.12.24-00.16.05:889][430]LogEditorBuildUtils: Build time 2:01
+[2021.12.24-00.16.07:645][430]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.24-00.16.07:646][430]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2021.12.24-00.16.07:646][430]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2021.12.24-00.16.07:678][430]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2021.12.24-00.16.07:678][430]LogShaderCompilers: Display: ================================================
+[2021.12.24-00.16.09:270][432]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2021.12.24-00.16.31:491][656]Job is a success!
+[2021.12.24-00.16.32:603][657]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.191s
+[2021.12.24-00.16.32:604][657]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.12.24-00.16.32:631][657]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.12.24-00.16.32:631][657]LogVolumetricLightmapImport:      Bricks at depth
+[2021.12.24-00.16.32:631][657]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2021.12.24-00.16.32:631][657]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2021.12.24-00.16.32:631][657]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.12.24-00.16.32:631][657]LogVolumetricLightmapImport:      Bricks in each level
+[2021.12.24-00.16.32:631][657]LogVolumetricLightmapImport:          Map 			 1 bricks 	 100.0% (Persistent Level)
+[2021.12.24-00.16.34:335][657]Lightmass on HOME-PC: 10.2 sec total, 1.30 sec importing, 1.35 sec setup, 864 ms photons, 2.28 sec processing, 0 ms extra exporting [0/0 mappings]. Threads: 9.14 sec total, 0 ms processing.
+[2021.12.24-00.16.34:669][657]LogUObjectHash: Compacting FUObjectHashTables data took   8.79ms
+[2021.12.24-00.16.34:708][657]LogStaticLightingSystem: Illumination: 2:23 min (30 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2021.12.24-00.16.34:708][657]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.12.24-00.16.34:708][657]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.12.24-00.16.35:303][657]DumpUnbuiltLightIteractions
+[2021.12.24-00.16.35:303][657]Lights with unbuilt interactions: 0
+[2021.12.24-00.16.35:303][657]
+[2021.12.24-00.16.35:303][657]Primitives with unbuilt interactions: 0
+[2021.12.24-00.16.35:549][658]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.12.24-00.16.35:549][658]MapCheck: New page: Map - 24 дек. 2021 г., 08:16:35
+[2021.12.24-00.16.35:549][658]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,41ms to complete.
+[2021.12.24-00.18.13:500][620]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.12.24-00.18.15:775][620]LogSlate: Window 'Save Content' being destroyed
+[2021.12.24-00.18.16:521][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map" FILE="../../../../Unreal Projects/Dungeoner/Content/Map/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.24-00.18.17:164][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.12.24-00.18.18:680][620]LogSavePackage: Moving '../../../../Unreal Projects/Dungeoner/Saved/Map8374E92C4B9601C8FABDBCBD240FD9B0.tmp' to '../../../../Unreal Projects/Dungeoner/Content/Map/Map.umap'
+[2021.12.24-00.18.20:244][620]LogFileHelpers: Saving map 'Map' took 4.293
+[2021.12.24-00.18.20:348][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_BuiltData" FILE="../../../../Unreal Projects/Dungeoner/Content/Map/Map_BuiltData.uasset" SILENT=true
+[2021.12.24-00.18.20:370][620]LogSavePackage: Moving '../../../../Unreal Projects/Dungeoner/Saved/Map_BuiltData231D0309462D477C15D8EB8AD873F977.tmp' to '../../../../Unreal Projects/Dungeoner/Content/Map/Map_BuiltData.uasset'
+[2021.12.24-00.18.20:372][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/View/StatsHint" FILE="../../../../Unreal Projects/Dungeoner/Content/UI/View/StatsHint.uasset" SILENT=true
+[2021.12.24-00.18.22:409][620]LogSavePackage: Moving '../../../../Unreal Projects/Dungeoner/Saved/StatsHint2A6802E74F32EED559D6DA94CC4ACC12.tmp' to '../../../../Unreal Projects/Dungeoner/Content/UI/View/StatsHint.uasset'
+[2021.12.24-00.18.22:602][620]LogSlate: Window 'StatsHint' being destroyed
+[2021.12.24-00.18.25:929][620]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.24-00.18.25:930][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.24-00.18.26:062][620]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.24-00.18.26:063][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.24-00.18.27:701][620]LogSlate: Window 'Dungeoner - Unreal Editor' being destroyed
+[2021.12.24-00.18.27:703][620]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.24-00.18.35:673][620]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.24-00.18.35:792][620]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/View/StatsHint.StatsHint
+[2021.12.24-00.18.36:267][620]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Map_BuiltData.Map_BuiltData
+[2021.12.24-00.18.36:267][620]LogContentValidation: Display: Validating World /Game/Map/Map.Map
+[2021.12.24-00.18.36:274][621]Cmd: QUIT_EDITOR
+[2021.12.24-00.18.36:274][621]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.12.24-00.18.37:742][621]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.12.24-00.18.40:383][621]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.12.24-00.18.40:383][621]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.12.24-00.18.40:611][621]LogAudio: Display: Audio Device unregistered from world 'Map'.
+[2021.12.24-00.18.41:707][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.24-00.18.41:955][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.24-00.19.00:420][621]LogAudio: Display: Audio Device Manager Shutdown
+[2021.12.24-00.19.00:652][621]LogExit: Preparing to exit.
+[2021.12.24-00.19.03:785][621]LogUObjectHash: Compacting FUObjectHashTables data took  10.01ms
