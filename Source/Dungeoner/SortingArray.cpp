@@ -1,6 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
+#include <cmath>
 #include "SortingArray.h"
 
 void USortingArray::IntegerSort(UPARAM(ref) TArray<int32>& ArrayToSort, bool Descending, TArray<int32>& SortedArray)
@@ -103,7 +103,7 @@ void USortingArray::StringSort(UPARAM(ref) TArray<FString>& ArrayToSort, bool De
 
 void USortingArray::IncreaseSort(UPARAM(ref) TArray<FIncrease>& Increases, bool Descending, TArray<FIncrease>& SortedIncreases)
 {
-    int32 m = Increases.Num(); // Return the array size 
+    int32 m = Increases.Num();
     int32 a, k;
     bool bDidSwap;
 
@@ -111,11 +111,11 @@ void USortingArray::IncreaseSort(UPARAM(ref) TArray<FIncrease>& Increases, bool 
     {
         bDidSwap = false;
 
-        if (Descending == true) // If element 1 is less than element 2 move it back in the array (sorts high to low)
+        if (Descending == true) 
         {
             for (k = 0; k < m - a - 1; k++)
             {
-                if (Increases[k].Value > Increases[k + 1].Value)
+                if (abs(Increases[k].Value) > abs(Increases[k + 1].Value))
                 {
                     int32 z;
                     z = Increases[k].Value;
@@ -125,7 +125,7 @@ void USortingArray::IncreaseSort(UPARAM(ref) TArray<FIncrease>& Increases, bool 
                 }
             }
 
-            if (bDidSwap == false) // If no swaps occured array is sorted do not go through last loop
+            if (bDidSwap == false)
             {
                 break;
             }
@@ -136,7 +136,7 @@ void USortingArray::IncreaseSort(UPARAM(ref) TArray<FIncrease>& Increases, bool 
 
             for (k = 0; k < m - a - 1; k++)
             {
-                if (Increases[k].Value < Increases[k + 1].Value)
+                if (abs(Increases[k].Value) < abs(Increases[k + 1].Value))
                 {
                     int32 z;
                     z = Increases[k].Value;
@@ -146,7 +146,7 @@ void USortingArray::IncreaseSort(UPARAM(ref) TArray<FIncrease>& Increases, bool 
                 }
             }
 
-            if (bDidSwap == false) // If no swaps occured array is sorted do not go through last loop
+            if (bDidSwap == false)
             {
                 break;
             }
