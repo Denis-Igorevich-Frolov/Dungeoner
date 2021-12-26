@@ -117,10 +117,10 @@ void USortingArray::IncreaseSort(UPARAM(ref) TArray<FIncrease>& Increases, bool 
             {
                 if (abs(Increases[k].Value) > abs(Increases[k + 1].Value))
                 {
-                    int32 z;
-                    z = Increases[k].Value;
-                    Increases[k].Value = Increases[k + 1].Value;
-                    Increases[k + 1].Value = z;
+                    FIncrease z;
+                    z = Increases[k];
+                    Increases[k] = Increases[k + 1];
+                    Increases[k + 1] = z;
                     bDidSwap = true;
                 }
             }
@@ -138,10 +138,10 @@ void USortingArray::IncreaseSort(UPARAM(ref) TArray<FIncrease>& Increases, bool 
             {
                 if (abs(Increases[k].Value) < abs(Increases[k + 1].Value))
                 {
-                    int32 z;
-                    z = Increases[k].Value;
-                    Increases[k].Value = Increases[k + 1].Value;
-                    Increases[k + 1].Value = z;
+                    FIncrease z;
+                    z = Increases[k];
+                    Increases[k] = Increases[k + 1];
+                    Increases[k + 1] = z;
                     bDidSwap = true;
                 }
             }
