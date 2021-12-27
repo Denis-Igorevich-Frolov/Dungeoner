@@ -1,2 +1,7 @@
 
 Intermediate/Build/Win64/DungeonerEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.pch
+.vs/Dungeoner/v16/ipch/AutoPCH/ba4eb3b9117ff6a8/SORTINGARRAY.ipch
+.vs/Dungeoner/v17/ipch/AutoPCH/ba4eb3b9117ff6a8/SORTINGARRAY.ipch
+.vs/Dungeoner/v17/Browse.VC.db
+.vs/Dungeoner/v17/ipch/cbc878d86e2d8d2f.ipch
+Intermediate/Build/Win64/Dungeoner/DebugGame/Engine/SharedPCH.Engine.NonOptimized.ShadowErrors.h.pch
