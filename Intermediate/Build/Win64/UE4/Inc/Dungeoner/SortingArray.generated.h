@@ -8,27 +8,30 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+struct FIncrease;
 #ifdef DUNGEONER_SortingArray_generated_h
 #error "SortingArray.generated.h already included, missing '#pragma once' in SortingArray.h"
 #endif
 #define DUNGEONER_SortingArray_generated_h
 
-#define Dungeoner_Source_Dungeoner_SortingArray_h_15_SPARSE_DATA
-#define Dungeoner_Source_Dungeoner_SortingArray_h_15_RPC_WRAPPERS \
+#define Dungeoner_Source_Dungeoner_SortingArray_h_16_SPARSE_DATA
+#define Dungeoner_Source_Dungeoner_SortingArray_h_16_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execIncreaseSort); \
 	DECLARE_FUNCTION(execStringSort); \
 	DECLARE_FUNCTION(execFloatSort); \
 	DECLARE_FUNCTION(execIntegerSort);
 
 
-#define Dungeoner_Source_Dungeoner_SortingArray_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#define Dungeoner_Source_Dungeoner_SortingArray_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
  \
+	DECLARE_FUNCTION(execIncreaseSort); \
 	DECLARE_FUNCTION(execStringSort); \
 	DECLARE_FUNCTION(execFloatSort); \
 	DECLARE_FUNCTION(execIntegerSort);
 
 
-#define Dungeoner_Source_Dungeoner_SortingArray_h_15_INCLASS_NO_PURE_DECLS \
+#define Dungeoner_Source_Dungeoner_SortingArray_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUSortingArray(); \
 	friend struct Z_Construct_UClass_USortingArray_Statics; \
@@ -37,7 +40,7 @@ public: \
 	DECLARE_SERIALIZER(USortingArray)
 
 
-#define Dungeoner_Source_Dungeoner_SortingArray_h_15_INCLASS \
+#define Dungeoner_Source_Dungeoner_SortingArray_h_16_INCLASS \
 private: \
 	static void StaticRegisterNativesUSortingArray(); \
 	friend struct Z_Construct_UClass_USortingArray_Statics; \
@@ -46,7 +49,7 @@ public: \
 	DECLARE_SERIALIZER(USortingArray)
 
 
-#define Dungeoner_Source_Dungeoner_SortingArray_h_15_STANDARD_CONSTRUCTORS \
+#define Dungeoner_Source_Dungeoner_SortingArray_h_16_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API USortingArray(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USortingArray) \
@@ -59,7 +62,7 @@ private: \
 public:
 
 
-#define Dungeoner_Source_Dungeoner_SortingArray_h_15_ENHANCED_CONSTRUCTORS \
+#define Dungeoner_Source_Dungeoner_SortingArray_h_16_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API USortingArray(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -72,28 +75,28 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USortingArray)
 
 
-#define Dungeoner_Source_Dungeoner_SortingArray_h_15_PRIVATE_PROPERTY_OFFSET
-#define Dungeoner_Source_Dungeoner_SortingArray_h_12_PROLOG
-#define Dungeoner_Source_Dungeoner_SortingArray_h_15_GENERATED_BODY_LEGACY \
+#define Dungeoner_Source_Dungeoner_SortingArray_h_16_PRIVATE_PROPERTY_OFFSET
+#define Dungeoner_Source_Dungeoner_SortingArray_h_13_PROLOG
+#define Dungeoner_Source_Dungeoner_SortingArray_h_16_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Dungeoner_Source_Dungeoner_SortingArray_h_15_PRIVATE_PROPERTY_OFFSET \
-	Dungeoner_Source_Dungeoner_SortingArray_h_15_SPARSE_DATA \
-	Dungeoner_Source_Dungeoner_SortingArray_h_15_RPC_WRAPPERS \
-	Dungeoner_Source_Dungeoner_SortingArray_h_15_INCLASS \
-	Dungeoner_Source_Dungeoner_SortingArray_h_15_STANDARD_CONSTRUCTORS \
+	Dungeoner_Source_Dungeoner_SortingArray_h_16_PRIVATE_PROPERTY_OFFSET \
+	Dungeoner_Source_Dungeoner_SortingArray_h_16_SPARSE_DATA \
+	Dungeoner_Source_Dungeoner_SortingArray_h_16_RPC_WRAPPERS \
+	Dungeoner_Source_Dungeoner_SortingArray_h_16_INCLASS \
+	Dungeoner_Source_Dungeoner_SortingArray_h_16_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Dungeoner_Source_Dungeoner_SortingArray_h_15_GENERATED_BODY \
+#define Dungeoner_Source_Dungeoner_SortingArray_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Dungeoner_Source_Dungeoner_SortingArray_h_15_PRIVATE_PROPERTY_OFFSET \
-	Dungeoner_Source_Dungeoner_SortingArray_h_15_SPARSE_DATA \
-	Dungeoner_Source_Dungeoner_SortingArray_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	Dungeoner_Source_Dungeoner_SortingArray_h_15_INCLASS_NO_PURE_DECLS \
-	Dungeoner_Source_Dungeoner_SortingArray_h_15_ENHANCED_CONSTRUCTORS \
+	Dungeoner_Source_Dungeoner_SortingArray_h_16_PRIVATE_PROPERTY_OFFSET \
+	Dungeoner_Source_Dungeoner_SortingArray_h_16_SPARSE_DATA \
+	Dungeoner_Source_Dungeoner_SortingArray_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	Dungeoner_Source_Dungeoner_SortingArray_h_16_INCLASS_NO_PURE_DECLS \
+	Dungeoner_Source_Dungeoner_SortingArray_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

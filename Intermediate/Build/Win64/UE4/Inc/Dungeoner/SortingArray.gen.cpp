@@ -17,7 +17,18 @@ void EmptyLinkFunctionForGeneratedCodeSortingArray() {}
 	DUNGEONER_API UClass* Z_Construct_UClass_USortingArray();
 	ENGINE_API UClass* Z_Construct_UClass_UBlueprintFunctionLibrary();
 	UPackage* Z_Construct_UPackage__Script_Dungeoner();
+	DUNGEONER_API UScriptStruct* Z_Construct_UScriptStruct_FIncrease();
 // End Cross Module References
+	DEFINE_FUNCTION(USortingArray::execIncreaseSort)
+	{
+		P_GET_TARRAY_REF(FIncrease,Z_Param_Out_Increases);
+		P_GET_UBOOL(Z_Param_Descending);
+		P_GET_TARRAY_REF(FIncrease,Z_Param_Out_SortedIncreases);
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		USortingArray::IncreaseSort(Z_Param_Out_Increases,Z_Param_Descending,Z_Param_Out_SortedIncreases);
+		P_NATIVE_END;
+	}
 	DEFINE_FUNCTION(USortingArray::execStringSort)
 	{
 		P_GET_TARRAY_REF(FString,Z_Param_Out_ArrayToSort);
@@ -53,6 +64,7 @@ void EmptyLinkFunctionForGeneratedCodeSortingArray() {}
 		UClass* Class = USortingArray::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
 			{ "FloatSort", &USortingArray::execFloatSort },
+			{ "IncreaseSort", &USortingArray::execIncreaseSort },
 			{ "IntegerSort", &USortingArray::execIntegerSort },
 			{ "StringSort", &USortingArray::execStringSort },
 		};
@@ -107,6 +119,58 @@ void EmptyLinkFunctionForGeneratedCodeSortingArray() {}
 		if (!ReturnFunction)
 		{
 			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_USortingArray_FloatSort_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_USortingArray_IncreaseSort_Statics
+	{
+		struct SortingArray_eventIncreaseSort_Parms
+		{
+			TArray<FIncrease> Increases;
+			bool Descending;
+			TArray<FIncrease> SortedIncreases;
+		};
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_Increases_Inner;
+		static const UE4CodeGen_Private::FArrayPropertyParams NewProp_Increases;
+		static void NewProp_Descending_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_Descending;
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_SortedIncreases_Inner;
+		static const UE4CodeGen_Private::FArrayPropertyParams NewProp_SortedIncreases;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::NewProp_Increases_Inner = { "Increases", nullptr, (EPropertyFlags)0x0000000000000000, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, 0, Z_Construct_UScriptStruct_FIncrease, METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FArrayPropertyParams Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::NewProp_Increases = { "Increases", nullptr, (EPropertyFlags)0x0010000008000180, UE4CodeGen_Private::EPropertyGenFlags::Array, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(SortingArray_eventIncreaseSort_Parms, Increases), EArrayPropertyFlags::None, METADATA_PARAMS(nullptr, 0) };
+	void Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::NewProp_Descending_SetBit(void* Obj)
+	{
+		((SortingArray_eventIncreaseSort_Parms*)Obj)->Descending = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::NewProp_Descending = { "Descending", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(SortingArray_eventIncreaseSort_Parms), &Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::NewProp_Descending_SetBit, METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::NewProp_SortedIncreases_Inner = { "SortedIncreases", nullptr, (EPropertyFlags)0x0000000000000000, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, 0, Z_Construct_UScriptStruct_FIncrease, METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FArrayPropertyParams Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::NewProp_SortedIncreases = { "SortedIncreases", nullptr, (EPropertyFlags)0x0010000000000180, UE4CodeGen_Private::EPropertyGenFlags::Array, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(SortingArray_eventIncreaseSort_Parms, SortedIncreases), EArrayPropertyFlags::None, METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::NewProp_Increases_Inner,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::NewProp_Increases,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::NewProp_Descending,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::NewProp_SortedIncreases_Inner,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::NewProp_SortedIncreases,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::Function_MetaDataParams[] = {
+		{ "Category", "Sorting Functions" },
+		{ "ModuleRelativePath", "SortingArray.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_USortingArray, nullptr, "IncreaseSort", nullptr, nullptr, sizeof(SortingArray_eventIncreaseSort_Parms), Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04422401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_USortingArray_IncreaseSort()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_USortingArray_IncreaseSort_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -234,6 +298,7 @@ void EmptyLinkFunctionForGeneratedCodeSortingArray() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_USortingArray_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_USortingArray_FloatSort, "FloatSort" }, // 772749080
+		{ &Z_Construct_UFunction_USortingArray_IncreaseSort, "IncreaseSort" }, // 1620638754
 		{ &Z_Construct_UFunction_USortingArray_IntegerSort, "IntegerSort" }, // 763566316
 		{ &Z_Construct_UFunction_USortingArray_StringSort, "StringSort" }, // 660932022
 	};
@@ -271,7 +336,7 @@ void EmptyLinkFunctionForGeneratedCodeSortingArray() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(USortingArray, 1236948847);
+	IMPLEMENT_CLASS(USortingArray, 2107824355);
 	template<> DUNGEONER_API UClass* StaticClass<USortingArray>()
 	{
 		return USortingArray::StaticClass();
