@@ -1,0 +1,173 @@
+{
+	"manifestChunkId": -1,
+	"pluginName": "NativizedAssets",
+	"outputDir": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game",
+	"moduleDependencies": [
+		"Package'/Script/CoreUObject'",
+		"Package'/Script/Engine'",
+		"Package'/Script/MagicLeapARPin'",
+		"Package'/Script/NavigationSystem'",
+		"Package'/Script/SlateCore'",
+		"Package'/Script/UMG'",
+		"Package'/Script/Dungeoner'",
+		"Package'/Script/Slate'",
+		"Package'/Script/MovieScene'",
+		"Package'/Script/MovieSceneTracks'",
+		"Package'/Script/InputCore'",
+		"Package'/Script/PhysicsCore'",
+		"Package'/Script/Landscape'",
+		"Package'/Script/StaticMeshDescription'",
+		"Package'/Script/MeshDescription'",
+		"Package'/Script/AudioExtensions'",
+		"Package'/Script/AudioPlatformConfiguration'",
+		"Package'/Script/AIModule'",
+		"Package'/Script/GameplayTasks'",
+		"Package'/Script/GameplayTags'",
+		"Package'/Script/ClothingSystemRuntimeInterface'",
+		"Package'/Script/PropertyAccess'",
+		"Package'/Script/PropertyPath'",
+		"Package'/Script/AudioMixer'"
+	],
+	"convertedAssets":
+	{
+		"/Game/Enums/PhysicalDamageScaling.PhysicalDamageScaling":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/Enums/PhysicalDamageScaling.PhysicalDamageScaling",
+			"generatedHeaderPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/PhysicalDamageScaling__pf2358337580.h",
+			"generatedCppPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/PhysicalDamageScaling__pf2358337580.cpp"
+		},
+		"/Game/Blueprint/Enums/PhysicalDamageScaling.PhysicalDamageScaling":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/Blueprint/Enums/PhysicalDamageScaling.PhysicalDamageScaling",
+			"generatedHeaderPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/PhysicalDamageScaling__pf270653243.h",
+			"generatedCppPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/PhysicalDamageScaling__pf270653243.cpp"
+		},
+		"/MagicLeapPassableWorld/MagicLeapARPinInfoActor.MagicLeapARPinInfoActor_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/MagicLeapPassableWorld/MagicLeapARPinInfoActor.MagicLeapARPinInfoActor_C",
+			"generatedHeaderPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/MagicLeapARPinInfoActor__pf2635949152.h",
+			"generatedCppPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/MagicLeapARPinInfoActor__pf2635949152.cpp"
+		},
+		"/Game/GameMode/BaseGameMode.BaseGameMode_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/GameMode/BaseGameMode.BaseGameMode_C",
+			"generatedHeaderPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BaseGameMode__pf255740958.h",
+			"generatedCppPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BaseGameMode__pf255740958.cpp"
+		},
+		"/Game/UI/Blanks/PanelDecoration/BGWithFrames-2.BGWithFrames-2_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Blanks/PanelDecoration/BGWithFrames-2.BGWithFrames-2_C",
+			"generatedHeaderPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BGWithFramesx2__pfG948159406.h",
+			"generatedCppPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BGWithFramesx2__pfG948159406.cpp"
+		},
+		"/Game/Blueprint/AddingSeparatorsToGroupingNumber.AddingSeparatorsToGroupingNumber_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprint/AddingSeparatorsToGroupingNumber.AddingSeparatorsToGroupingNumber_C",
+			"generatedHeaderPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/AddingSeparatorsToGroupingNumber__pf503790866.h",
+			"generatedCppPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/AddingSeparatorsToGroupingNumber__pf503790866.cpp"
+		},
+		"/Game/UI/View/StatsTooltip.StatsTooltip_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/View/StatsTooltip.StatsTooltip_C",
+			"generatedHeaderPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/StatsTooltip__pf724873442.h",
+			"generatedCppPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/StatsTooltip__pf724873442.cpp"
+		},
+		"/Game/UI/View/Slider.Slider_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/View/Slider.Slider_C",
+			"generatedHeaderPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Slider__pf724873442.h",
+			"generatedCppPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Slider__pf724873442.cpp"
+		},
+		"/Game/Blueprint/GetNumberLengthInt64.GetNumberLengthInt64_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprint/GetNumberLengthInt64.GetNumberLengthInt64_C",
+			"generatedHeaderPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/GetNumberLengthInt64__pf503790866.h",
+			"generatedCppPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/GetNumberLengthInt64__pf503790866.cpp"
+		},
+		"/Game/UI/View/AnimatedNumberTextBlock.AnimatedNumberTextBlock_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/View/AnimatedNumberTextBlock.AnimatedNumberTextBlock_C",
+			"generatedHeaderPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/AnimatedNumberTextBlock__pf724873442.h",
+			"generatedCppPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/AnimatedNumberTextBlock__pf724873442.cpp"
+		},
+		"/Game/UI/Blanks/PanelDecoration/BGWithFrames-1.BGWithFrames-1_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Blanks/PanelDecoration/BGWithFrames-1.BGWithFrames-1_C",
+			"generatedHeaderPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BGWithFramesx1__pfG948159406.h",
+			"generatedCppPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BGWithFramesx1__pfG948159406.cpp"
+		},
+		"/Game/UI/View/SecondaryStatPanel.SecondaryStatPanel_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/View/SecondaryStatPanel.SecondaryStatPanel_C",
+			"generatedHeaderPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/SecondaryStatPanel__pf724873442.h",
+			"generatedCppPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/SecondaryStatPanel__pf724873442.cpp"
+		},
+		"/Game/UI/View/TextArea-1.TextArea-1_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/View/TextArea-1.TextArea-1_C",
+			"generatedHeaderPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/TextAreax1__pfG724873442.h",
+			"generatedCppPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/TextAreax1__pfG724873442.cpp"
+		},
+		"/Game/UI/View/OffsetNumberTextPanel-1.OffsetNumberTextPanel-1_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/View/OffsetNumberTextPanel-1.OffsetNumberTextPanel-1_C",
+			"generatedHeaderPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/OffsetNumberTextPanelx1__pfG724873442.h",
+			"generatedCppPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/OffsetNumberTextPanelx1__pfG724873442.cpp"
+		},
+		"/Game/UI/View/PrimaryStat.PrimaryStat_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/View/PrimaryStat.PrimaryStat_C",
+			"generatedHeaderPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/PrimaryStat__pf724873442.h",
+			"generatedCppPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/PrimaryStat__pf724873442.cpp"
+		},
+		"/Game/UI/Windows/CharacterWindow.CharacterWindow_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Windows/CharacterWindow.CharacterWindow_C",
+			"generatedHeaderPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/CharacterWindow__pf3035829248.h",
+			"generatedCppPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/CharacterWindow__pf3035829248.cpp"
+		},
+		"/Game/Blueprint/BP_GameManager.BP_GameManager_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprint/BP_GameManager.BP_GameManager_C",
+			"generatedHeaderPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_GameManager__pf503790866.h",
+			"generatedCppPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_GameManager__pf503790866.cpp"
+		},
+		"/Game/Blueprint/GetNumberLength.GetNumberLength_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprint/GetNumberLength.GetNumberLength_C",
+			"generatedHeaderPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/GetNumberLength__pf503790866.h",
+			"generatedCppPath": "E:/Unreal Projects/Dungeoner/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/GetNumberLength__pf503790866.cpp"
+		}
+	},
+	"unconvertedDependencies":
+	{
+	},
+	"nativizationOptions":
+	{
+		"platformName": "WindowsNoEditor",
+		"serverOnlyPlatform": false,
+		"clientOnlyPlatform": false,
+		"bExcludeMonolithicHeaders": false,
+		"excludedModules": [],
+		"excludedAssets": [],
+		"excludedFolderPaths": []
+	}
+}

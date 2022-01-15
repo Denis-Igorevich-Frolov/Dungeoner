@@ -279,18 +279,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6D966E5C41CF95F7429D1D0F70508D19DCFA4D60",
-			"Assets": [
-				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "5532C31F2D3986334CDEFCBF4E1201FB6D4D6B00",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "4A99C9ACFCC2AA802806895EB89ED066283FA131",
 			"Assets": [
 				"/Game/Materials/Border-3-Rotate-90"
@@ -306,6 +294,18 @@
 			"ShaderMapHash": "5EA9A52485836B346F71B34BB4703F77A74709D6",
 			"Assets": [
 				"/Game/Materials/BackgroundWithRoundedCorners"
+			]
+		},
+		{
+			"ShaderMapHash": "6D966E5C41CF95F7429D1D0F70508D19DCFA4D60",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5532C31F2D3986334CDEFCBF4E1201FB6D4D6B00",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
 			]
 		}
 	]

@@ -1,7 +1,5 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-#include <cmath>
 #include "SortingArray.h"
+#include <cmath>
 
 void USortingArray::IntegerSort(UPARAM(ref) TArray<int32>& ArrayToSort, bool Descending, TArray<int32>& SortedArray)
 {

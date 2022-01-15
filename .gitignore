@@ -21,3 +21,6 @@ Saved/Logs/Dungeoner.log
 Saved/StagedBuilds/WindowsNoEditor/Dungeoner/Binaries/Win64/Dungeoner.exe
 Saved/Logs/Dungeoner.log
 *.log
+Binaries/Win64/Dungeoner-Win64-DebugGame.exe
+Binaries/Win64/Dungeoner-Win64-DebugGame.pdb
+Binaries/Win64/Dungeoner-Win64-Shipping.pdb
