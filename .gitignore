@@ -24,3 +24,4 @@ Saved/Logs/Dungeoner.log
 Binaries/Win64/Dungeoner-Win64-DebugGame.exe
 Binaries/Win64/Dungeoner-Win64-DebugGame.pdb
 Binaries/Win64/Dungeoner-Win64-Shipping.pdb
+Intermediate/Build/Win64/Dungeoner/Shipping/Engine/SharedPCH.Engine.ShadowErrors.h.pch
