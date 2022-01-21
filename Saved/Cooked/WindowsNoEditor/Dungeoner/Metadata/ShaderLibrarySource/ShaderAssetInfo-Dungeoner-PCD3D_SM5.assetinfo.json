@@ -279,12 +279,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "4A99C9ACFCC2AA802806895EB89ED066283FA131",
-			"Assets": [
-				"/Game/Materials/Border-3-Rotate-90"
-			]
-		},
-		{
 			"ShaderMapHash": "74547BDF519ED38998DBB13E16E350523EF146C0",
 			"Assets": [
 				"/Game/Materials/Gradient"
@@ -294,6 +288,12 @@
 			"ShaderMapHash": "5EA9A52485836B346F71B34BB4703F77A74709D6",
 			"Assets": [
 				"/Game/Materials/BackgroundWithRoundedCorners"
+			]
+		},
+		{
+			"ShaderMapHash": "4A99C9ACFCC2AA802806895EB89ED066283FA131",
+			"Assets": [
+				"/Game/Materials/Border-3-Rotate-90"
 			]
 		},
 		{

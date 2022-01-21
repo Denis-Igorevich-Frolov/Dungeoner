@@ -284,12 +284,12 @@
 "../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 283
 "../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 284
 "../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 285
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 286
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 287
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 288
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 289
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 290
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 291
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 286
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 287
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 288
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 289
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 290
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 291
 "../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 292
 "../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 293
 "../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 294
@@ -400,29 +400,29 @@
 "../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 399
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 400
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 401
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 402
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 403
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 404
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 405
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 406
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 407
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 408
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 409
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 410
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 411
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 412
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 413
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 414
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 415
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 416
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 417
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 418
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 419
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 420
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 421
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 422
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 423
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 424
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 402
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 403
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 404
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 405
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 406
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 407
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 408
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 409
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 410
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 411
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 412
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 413
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 414
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 415
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 416
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 417
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 418
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 419
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 420
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 421
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 422
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 423
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 424
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 425
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 426
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 427
@@ -578,76 +578,76 @@
 "E:/Unreal Projects/Dungeoner/Content/GameMode/BaseGameMode.uexp" 577
 "E:/Unreal Projects/Dungeoner/Content/Map/Map_BuiltData.uasset" 578
 "E:/Unreal Projects/Dungeoner/Content/Map/Map_BuiltData.uexp" 579
-"E:/Unreal Projects/Dungeoner/Content/Textures/Angle-2.uasset" 580
-"E:/Unreal Projects/Dungeoner/Content/Textures/Angle-2.uexp" 581
-"E:/Unreal Projects/Dungeoner/Content/UI/Blanks/PanelDecoration/BGWithFrames-2.uasset" 582
-"E:/Unreal Projects/Dungeoner/Content/UI/Blanks/PanelDecoration/BGWithFrames-2.uexp" 583
-"E:/Unreal Projects/Dungeoner/Content/Textures/Decorative-element-1.uasset" 584
-"E:/Unreal Projects/Dungeoner/Content/Textures/Decorative-element-1.uexp" 585
-"E:/Unreal Projects/Dungeoner/Content/Blueprint/AddingSeparatorsToGroupingNumber.uasset" 586
-"E:/Unreal Projects/Dungeoner/Content/Blueprint/AddingSeparatorsToGroupingNumber.uexp" 587
-"E:/Unreal Projects/Dungeoner/Content/Fonts/TextFont.uasset" 588
-"E:/Unreal Projects/Dungeoner/Content/Fonts/TextFont.uexp" 589
-"E:/Unreal Projects/Dungeoner/Content/Fonts/TextFont.ufont" 590
-"E:/Unreal Projects/Dungeoner/Content/Fonts/TextFont_Font.uasset" 591
-"E:/Unreal Projects/Dungeoner/Content/Fonts/TextFont_Font.uexp" 592
-"E:/Unreal Projects/Dungeoner/Content/Fonts/NumbersFont.uasset" 593
-"E:/Unreal Projects/Dungeoner/Content/Fonts/NumbersFont.uexp" 594
-"E:/Unreal Projects/Dungeoner/Content/Fonts/NumbersFont.ufont" 595
-"E:/Unreal Projects/Dungeoner/Content/Fonts/NumbersFont_Font.uasset" 596
-"E:/Unreal Projects/Dungeoner/Content/Fonts/NumbersFont_Font.uexp" 597
-"E:/Unreal Projects/Dungeoner/Content/UI/View/StatsTooltip.uasset" 598
-"E:/Unreal Projects/Dungeoner/Content/UI/View/StatsTooltip.uexp" 599
-"E:/Unreal Projects/Dungeoner/Content/Textures/SliderPike.uasset" 600
-"E:/Unreal Projects/Dungeoner/Content/Textures/SliderPike.uexp" 601
-"E:/Unreal Projects/Dungeoner/Content/Textures/SliderButtonPressed.uasset" 602
-"E:/Unreal Projects/Dungeoner/Content/Textures/SliderButtonPressed.uexp" 603
-"E:/Unreal Projects/Dungeoner/Content/Textures/SliderButtonHovering.uasset" 604
-"E:/Unreal Projects/Dungeoner/Content/Textures/SliderButtonHovering.uexp" 605
-"E:/Unreal Projects/Dungeoner/Content/Textures/SliderButton.uasset" 606
-"E:/Unreal Projects/Dungeoner/Content/Textures/SliderButton.uexp" 607
-"E:/Unreal Projects/Dungeoner/Content/Textures/SliderBody.uasset" 608
-"E:/Unreal Projects/Dungeoner/Content/Textures/SliderBody.uexp" 609
-"E:/Unreal Projects/Dungeoner/Content/UI/View/Slider.uasset" 610
-"E:/Unreal Projects/Dungeoner/Content/UI/View/Slider.uexp" 611
-"E:/Unreal Projects/Dungeoner/Content/Blueprint/GetNumberLengthInt64.uasset" 612
-"E:/Unreal Projects/Dungeoner/Content/Blueprint/GetNumberLengthInt64.uexp" 613
-"E:/Unreal Projects/Dungeoner/Content/UI/View/AnimatedNumberTextBlock.uasset" 614
-"E:/Unreal Projects/Dungeoner/Content/UI/View/AnimatedNumberTextBlock.uexp" 615
-"E:/Unreal Projects/Dungeoner/Content/Textures/Angle-7.uasset" 616
-"E:/Unreal Projects/Dungeoner/Content/Textures/Angle-7.uexp" 617
-"E:/Unreal Projects/Dungeoner/Content/Textures/Border-3.uasset" 618
-"E:/Unreal Projects/Dungeoner/Content/Textures/Border-3.uexp" 619
-"E:/Unreal Projects/Dungeoner/Content/Materials/Border-3-Rotate-90.uasset" 620
-"E:/Unreal Projects/Dungeoner/Content/Materials/Border-3-Rotate-90.uexp" 621
-"E:/Unreal Projects/Dungeoner/Content/UI/Blanks/PanelDecoration/BGWithFrames-1.uasset" 622
-"E:/Unreal Projects/Dungeoner/Content/UI/Blanks/PanelDecoration/BGWithFrames-1.uexp" 623
-"E:/Unreal Projects/Dungeoner/Content/UI/View/SecondaryStatPanel.uasset" 624
-"E:/Unreal Projects/Dungeoner/Content/UI/View/SecondaryStatPanel.uexp" 625
-"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-Pressed-1-T.uasset" 626
-"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-Pressed-1-T.uexp" 627
-"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-Hovered-1-T.uasset" 628
-"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-Hovered-1-T.uexp" 629
-"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-1-T.uasset" 630
-"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-1-T.uexp" 631
-"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-1-L.uasset" 632
-"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-1-L.uexp" 633
-"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-1-BG.uasset" 634
-"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-1-BG.uexp" 635
-"E:/Unreal Projects/Dungeoner/Content/Textures/Border-1.uasset" 636
-"E:/Unreal Projects/Dungeoner/Content/Textures/Border-1.uexp" 637
-"E:/Unreal Projects/Dungeoner/Content/UI/View/TextAreaWithButtons-1.uasset" 638
-"E:/Unreal Projects/Dungeoner/Content/UI/View/TextAreaWithButtons-1.uexp" 639
-"E:/Unreal Projects/Dungeoner/Content/Textures/Angle-1.uasset" 640
-"E:/Unreal Projects/Dungeoner/Content/Textures/Angle-1.uexp" 641
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 642
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 643
-"E:/Unreal Projects/Dungeoner/Content/Materials/Gradient.uasset" 644
-"E:/Unreal Projects/Dungeoner/Content/Materials/Gradient.uexp" 645
-"E:/Unreal Projects/Dungeoner/Content/UI/View/OffsetNumberTextPanel-1.uasset" 646
-"E:/Unreal Projects/Dungeoner/Content/UI/View/OffsetNumberTextPanel-1.uexp" 647
-"E:/Unreal Projects/Dungeoner/Content/UI/View/PrimaryStat.uasset" 648
-"E:/Unreal Projects/Dungeoner/Content/UI/View/PrimaryStat.uexp" 649
+"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-Pressed-1-T.uasset" 580
+"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-Pressed-1-T.uexp" 581
+"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-Hovered-1-T.uasset" 582
+"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-Hovered-1-T.uexp" 583
+"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-1-T.uasset" 584
+"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-1-T.uexp" 585
+"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-1-L.uasset" 586
+"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-1-L.uexp" 587
+"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-1-BG.uasset" 588
+"E:/Unreal Projects/Dungeoner/Content/Textures/Text-Block-1-BG.uexp" 589
+"E:/Unreal Projects/Dungeoner/Content/Textures/Border-1.uasset" 590
+"E:/Unreal Projects/Dungeoner/Content/Textures/Border-1.uexp" 591
+"E:/Unreal Projects/Dungeoner/Content/Fonts/TextFont.uasset" 592
+"E:/Unreal Projects/Dungeoner/Content/Fonts/TextFont.uexp" 593
+"E:/Unreal Projects/Dungeoner/Content/Fonts/TextFont.ufont" 594
+"E:/Unreal Projects/Dungeoner/Content/Fonts/TextFont_Font.uasset" 595
+"E:/Unreal Projects/Dungeoner/Content/Fonts/TextFont_Font.uexp" 596
+"E:/Unreal Projects/Dungeoner/Content/UI/View/TextAreaWithButtons-1.uasset" 597
+"E:/Unreal Projects/Dungeoner/Content/UI/View/TextAreaWithButtons-1.uexp" 598
+"E:/Unreal Projects/Dungeoner/Content/Blueprint/AddingSeparatorsToGroupingNumber.uasset" 599
+"E:/Unreal Projects/Dungeoner/Content/Blueprint/AddingSeparatorsToGroupingNumber.uexp" 600
+"E:/Unreal Projects/Dungeoner/Content/Blueprint/GetNumberLengthInt64.uasset" 601
+"E:/Unreal Projects/Dungeoner/Content/Blueprint/GetNumberLengthInt64.uexp" 602
+"E:/Unreal Projects/Dungeoner/Content/Fonts/NumbersFont.uasset" 603
+"E:/Unreal Projects/Dungeoner/Content/Fonts/NumbersFont.uexp" 604
+"E:/Unreal Projects/Dungeoner/Content/Fonts/NumbersFont.ufont" 605
+"E:/Unreal Projects/Dungeoner/Content/Fonts/NumbersFont_Font.uasset" 606
+"E:/Unreal Projects/Dungeoner/Content/Fonts/NumbersFont_Font.uexp" 607
+"E:/Unreal Projects/Dungeoner/Content/UI/View/AnimatedNumberTextBlock.uasset" 608
+"E:/Unreal Projects/Dungeoner/Content/UI/View/AnimatedNumberTextBlock.uexp" 609
+"E:/Unreal Projects/Dungeoner/Content/Textures/Angle-1.uasset" 610
+"E:/Unreal Projects/Dungeoner/Content/Textures/Angle-1.uexp" 611
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 612
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 613
+"E:/Unreal Projects/Dungeoner/Content/Materials/Gradient.uasset" 614
+"E:/Unreal Projects/Dungeoner/Content/Materials/Gradient.uexp" 615
+"E:/Unreal Projects/Dungeoner/Content/UI/View/OffsetNumberTextPanel-1.uasset" 616
+"E:/Unreal Projects/Dungeoner/Content/UI/View/OffsetNumberTextPanel-1.uexp" 617
+"E:/Unreal Projects/Dungeoner/Content/UI/View/PrimaryStat.uasset" 618
+"E:/Unreal Projects/Dungeoner/Content/UI/View/PrimaryStat.uexp" 619
+"E:/Unreal Projects/Dungeoner/Content/Textures/Angle-2.uasset" 620
+"E:/Unreal Projects/Dungeoner/Content/Textures/Angle-2.uexp" 621
+"E:/Unreal Projects/Dungeoner/Content/UI/Blanks/PanelDecoration/BGWithFrames-2.uasset" 622
+"E:/Unreal Projects/Dungeoner/Content/UI/Blanks/PanelDecoration/BGWithFrames-2.uexp" 623
+"E:/Unreal Projects/Dungeoner/Content/Textures/Decorative-element-1.uasset" 624
+"E:/Unreal Projects/Dungeoner/Content/Textures/Decorative-element-1.uexp" 625
+"E:/Unreal Projects/Dungeoner/Content/UI/View/StatsTooltip.uasset" 626
+"E:/Unreal Projects/Dungeoner/Content/UI/View/StatsTooltip.uexp" 627
+"E:/Unreal Projects/Dungeoner/Content/Textures/SliderPike.uasset" 628
+"E:/Unreal Projects/Dungeoner/Content/Textures/SliderPike.uexp" 629
+"E:/Unreal Projects/Dungeoner/Content/Textures/SliderButtonPressed.uasset" 630
+"E:/Unreal Projects/Dungeoner/Content/Textures/SliderButtonPressed.uexp" 631
+"E:/Unreal Projects/Dungeoner/Content/Textures/SliderButtonHovering.uasset" 632
+"E:/Unreal Projects/Dungeoner/Content/Textures/SliderButtonHovering.uexp" 633
+"E:/Unreal Projects/Dungeoner/Content/Textures/SliderButton.uasset" 634
+"E:/Unreal Projects/Dungeoner/Content/Textures/SliderButton.uexp" 635
+"E:/Unreal Projects/Dungeoner/Content/Textures/SliderBody.uasset" 636
+"E:/Unreal Projects/Dungeoner/Content/Textures/SliderBody.uexp" 637
+"E:/Unreal Projects/Dungeoner/Content/UI/View/Slider.uasset" 638
+"E:/Unreal Projects/Dungeoner/Content/UI/View/Slider.uexp" 639
+"E:/Unreal Projects/Dungeoner/Content/Textures/Angle-7.uasset" 640
+"E:/Unreal Projects/Dungeoner/Content/Textures/Angle-7.uexp" 641
+"E:/Unreal Projects/Dungeoner/Content/Textures/Border-3.uasset" 642
+"E:/Unreal Projects/Dungeoner/Content/Textures/Border-3.uexp" 643
+"E:/Unreal Projects/Dungeoner/Content/Materials/Border-3-Rotate-90.uasset" 644
+"E:/Unreal Projects/Dungeoner/Content/Materials/Border-3-Rotate-90.uexp" 645
+"E:/Unreal Projects/Dungeoner/Content/UI/Blanks/PanelDecoration/BGWithFrames-1.uasset" 646
+"E:/Unreal Projects/Dungeoner/Content/UI/Blanks/PanelDecoration/BGWithFrames-1.uexp" 647
+"E:/Unreal Projects/Dungeoner/Content/UI/View/SecondaryStat.uasset" 648
+"E:/Unreal Projects/Dungeoner/Content/UI/View/SecondaryStat.uexp" 649
 "E:/Unreal Projects/Dungeoner/Content/Textures/Border-2.uasset" 650
 "E:/Unreal Projects/Dungeoner/Content/Textures/Border-2.uexp" 651
 "E:/Unreal Projects/Dungeoner/Content/Enums/PhysicalDamageScaling.uasset" 652
