@@ -21,6 +21,13 @@ struct FIncrease
         int32 Value = 0;
 
     UPROPERTY(BlueprintReadWrite)
+        bool IsPercentage = false;
+
+    //указание процентов при выключенном IsPercentage ни на что не повлияет
+    UPROPERTY(BlueprintReadWrite)
+        int32 Percent = 0;
+
+    UPROPERTY(BlueprintReadWrite)
         int32 Duration = 0;
 };
 

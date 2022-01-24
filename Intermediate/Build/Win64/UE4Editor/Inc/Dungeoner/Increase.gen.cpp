@@ -53,6 +53,15 @@ static struct FScriptStruct_Dungeoner_StaticRegisterNativesFIncrease
 #endif
 		static const UE4CodeGen_Private::FIntPropertyParams NewProp_Value;
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_IsPercentage_MetaData[];
+#endif
+		static void NewProp_IsPercentage_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_IsPercentage;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Percent_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FIntPropertyParams NewProp_Percent;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Duration_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FIntPropertyParams NewProp_Duration;
@@ -84,6 +93,26 @@ static struct FScriptStruct_Dungeoner_StaticRegisterNativesFIncrease
 #endif
 	const UE4CodeGen_Private::FIntPropertyParams Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_Value = { "Value", nullptr, (EPropertyFlags)0x0010000000000004, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FIncrease, Value), METADATA_PARAMS(Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_Value_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_Value_MetaData)) };
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_IsPercentage_MetaData[] = {
+		{ "Category", "Increase" },
+		{ "ModuleRelativePath", "Structure/Increase.h" },
+	};
+#endif
+	void Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_IsPercentage_SetBit(void* Obj)
+	{
+		((FIncrease*)Obj)->IsPercentage = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_IsPercentage = { "IsPercentage", nullptr, (EPropertyFlags)0x0010000000000004, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(FIncrease), &Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_IsPercentage_SetBit, METADATA_PARAMS(Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_IsPercentage_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_IsPercentage_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_Percent_MetaData[] = {
+		{ "Category", "Increase" },
+		{ "Comment", "//???????? ????????? ??? ??????????? IsPercentage ?? ?? ??? ?? ????????\n" },
+		{ "ModuleRelativePath", "Structure/Increase.h" },
+		{ "ToolTip", "???????? ????????? ??? ??????????? IsPercentage ?? ?? ??? ?? ????????" },
+	};
+#endif
+	const UE4CodeGen_Private::FIntPropertyParams Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_Percent = { "Percent", nullptr, (EPropertyFlags)0x0010000000000004, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FIncrease, Percent), METADATA_PARAMS(Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_Percent_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_Percent_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_Duration_MetaData[] = {
 		{ "Category", "Increase" },
 		{ "ModuleRelativePath", "Structure/Increase.h" },
@@ -93,6 +122,8 @@ static struct FScriptStruct_Dungeoner_StaticRegisterNativesFIncrease
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UScriptStruct_FIncrease_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_Name,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_Value,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_IsPercentage,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_Percent,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FIncrease_Statics::NewProp_Duration,
 	};
 	const UE4CodeGen_Private::FStructParams Z_Construct_UScriptStruct_FIncrease_Statics::ReturnStructParams = {
@@ -123,7 +154,7 @@ static struct FScriptStruct_Dungeoner_StaticRegisterNativesFIncrease
 		}
 		return ReturnStruct;
 	}
-	uint32 Get_Z_Construct_UScriptStruct_FIncrease_Hash() { return 3457991442U; }
+	uint32 Get_Z_Construct_UScriptStruct_FIncrease_Hash() { return 1255072160U; }
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 #ifdef _MSC_VER
 #pragma warning (pop)
