@@ -307,6 +307,12 @@
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
 			]
+		},
+		{
+			"ShaderMapHash": "89AB9672535A847A2A041C5B973C0568BA2AF2B6",
+			"Assets": [
+				"/Game/Materials/ProgressBarBody-1_Bright"
+			]
 		}
 	]
 }

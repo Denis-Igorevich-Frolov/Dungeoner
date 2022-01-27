@@ -52,6 +52,7 @@ FSerializedShaderArchive
 		5EA9A52485836B346F71B34BB4703F77A74709D6
 		6D966E5C41CF95F7429D1D0F70508D19DCFA4D60
 		5532C31F2D3986334CDEFCBF4E1201FB6D4D6B00
+		89AB9672535A847A2A041C5B973C0568BA2AF2B6
 	}
 	ShaderHashes
 	{
@@ -1554,6 +1555,12 @@ FSerializedShaderArchive
 		BA7B288F778DC5B663D3DE7EAF5ECAF431719BFF
 		CDDB72BD16BF238465B3C6F5F2F9DD7D7EF732E0
 		C91CA218596EC16473DCDAC7E57D172D8CF71C3D
+		1FB671E94F6B8D168D3C952073C7CBB882AFFCB1
+		234C7E9457B4A1BD07823FCD77426C0215D6BB6F
+		445D43AC90D018588246E82ABEC281E8E82B759D
+		64B0384192CB9CC9259A45D75733F0C0BC3D17C8
+		B6547F98B63DF23E18B0DF7F86565FE7EBDE6EFF
+		E355C9D950382714C4D9F002ADBC6D3F4762DDF5
 	}
 	ShaderMapEntries
 	{
@@ -1905,6 +1912,13 @@ FSerializedShaderArchive
 			ShaderIndicesOffset : 1808
 			NumShaders : 8
 			FirstPreloadIndex : 243
+			NumPreloadEntries : 3
+		}
+		FShaderMapEntry
+		{
+			ShaderIndicesOffset : 1816
+			NumShaders : 9
+			FirstPreloadIndex : 246
 			NumPreloadEntries : 3
 		}
 	}
@@ -12403,6 +12417,48 @@ FSerializedShaderArchive
 			UncompressedSize : 1928
 			Frequency : 3
 		}
+		FShaderCodeEntry
+		{
+			Offset : 3164888
+			Size : 908
+			UncompressedSize : 1819
+			Frequency : 3
+		}
+		FShaderCodeEntry
+		{
+			Offset : 3165796
+			Size : 875
+			UncompressedSize : 1727
+			Frequency : 3
+		}
+		FShaderCodeEntry
+		{
+			Offset : 3166671
+			Size : 1030
+			UncompressedSize : 2139
+			Frequency : 3
+		}
+		FShaderCodeEntry
+		{
+			Offset : 3167701
+			Size : 843
+			UncompressedSize : 1651
+			Frequency : 3
+		}
+		FShaderCodeEntry
+		{
+			Offset : 3168544
+			Size : 1007
+			UncompressedSize : 1980
+			Frequency : 3
+		}
+		FShaderCodeEntry
+		{
+			Offset : 3169551
+			Size : 906
+			UncompressedSize : 1799
+			Frequency : 3
+		}
 	}
 	PreloadEntries
 	{
@@ -13636,6 +13692,21 @@ FSerializedShaderArchive
 			Offset : 3163925
 			Size : 963
 		}
+		FFileCachePreloadEntry
+		{
+			Offset : 116298
+			Size : 1091
+		}
+		FFileCachePreloadEntry
+		{
+			Offset : 3124033
+			Size : 1204
+		}
+		FFileCachePreloadEntry
+		{
+			Offset : 3164888
+			Size : 5569
+		}
 	}
 	ShaderIndices
 	{
@@ -13689,5 +13760,6 @@ FSerializedShaderArchive
 		1479, 1480, 42, 1481, 1482, 83, 1483, 1484, 1485, 1468, 44, 1469, 1486, 45
 		269, 1487, 1488, 1489, 361, 1490, 59, 1491, 393, 974, 406, 1492, 1493, 1494, 1495, 537, 1496, 1497, 589
 		14, 15, 6, 16, 17, 18, 1498, 19
+		1499, 1500, 1501, 59, 1502, 1468, 1503, 1469, 1504
 	}
 }
